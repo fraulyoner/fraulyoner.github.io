@@ -1,11 +1,13 @@
 body {
+  margin: 0;
+  padding: 0;
   /*background-color: #efefef;*/
   background-color: #f3f3f3;
   color: #222;
   font-family: Georgia, ​ Helvetica, Helvetica Neue, Arial, sans-serif;
   /*font-size: 16px;*/
   font-size: 1em;
-  line-height: 1.4;
+  line-height: 1.5;
 }
 
 img {
@@ -32,6 +34,20 @@ a, a:active, a:visited {
 
 .profile--name {
   font-size: 200%;
+}
+
+.profile--links {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+.profile--links > li {
+  font-size: 2em;
+  display: inline-block;
+  padding-left: 0.1em;
+  padding-right: 0.1em;
 }
 
 @media (min-width: 480px) {
