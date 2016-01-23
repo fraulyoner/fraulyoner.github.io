@@ -21,3 +21,23 @@ a, a:active, a:visited {
   color: #A63F4B;
   font-weight: bold;
 }
+
+.profile--image {
+  width: 100%;
+}
+
+.profile--name {
+  font-size: 200%;
+}
+
+@media (min-width: 480px) {
+
+  .profile--image {
+    width: 15em;
+  }
+
+  .profile--name {
+    font-size: 300%;
+  }
+
+}
