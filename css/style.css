@@ -1,0 +1,23 @@
+body {
+  /*background-color: #efefef;*/
+  background-color: #f3f3f3;
+  color: #222;
+  font-family: Georgia, ​ Helvetica, Helvetica Neue, Arial, sans-serif;
+  /*font-size: 16px;*/
+  font-size: 1em;
+  line-height: 1.4;
+  padding: 1em;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center; /* ensure alt text of image is centered too */
+}
+
+a, a:active, a:visited {
+  text-decoration: none;
+  color: #A63F4B;
+  font-weight: bold;
+}
