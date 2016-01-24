@@ -57,7 +57,7 @@ footer > .contact--links > li {
 
 footer > .contact--owner {
   font-size: 0.3em;
-  vertical-align: top;
+  vertical-align: super;
 }
 
 @media (min-width: 400px) {
@@ -96,10 +96,6 @@ footer > .contact--owner {
 
   footer > .contact--links {
     float: left;
-  }
-
-  footer > .contact--owner {
-    vertical-align: super;
   }
 
 }
