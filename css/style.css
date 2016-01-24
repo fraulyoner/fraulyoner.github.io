@@ -74,18 +74,6 @@ footer > .contact--owner {
     width: 50%;
   }
 
-  footer {
-    text-align: right;
-  }
-
-  footer > .contact--links {
-    float: left;
-  }
-
-  footer > .contact--owner {
-    vertical-align: super;
-  }
-
 }
 
 @media (min-width: 600px) {
@@ -100,6 +88,18 @@ footer > .contact--owner {
 
   .profile--image {
     width: 40%;
+  }
+
+  footer {
+    text-align: right;
+  }
+
+  footer > .contact--links {
+    float: left;
+  }
+
+  footer > .contact--owner {
+    vertical-align: super;
   }
 
 }
