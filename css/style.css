@@ -35,6 +35,11 @@ a, a:active, a:visited {
   font-size: 200%;
 }
 
+.pictures {
+  max-width: 480px;
+  margin: 0 auto;
+}
+
 footer {
   border-top: 1px solid #E5E5E5;
   color: #777;

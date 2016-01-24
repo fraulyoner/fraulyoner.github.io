@@ -15,6 +15,8 @@
   ],
   "dependencies": {
     "fontawesome": "~4.5.0",
-    "normalize.css": "~3.0.3"
+    "normalize.css": "~3.0.3",
+    "lightslider": "~1.1.5",
+    "jquery": "1.11.0"
   }
 }
