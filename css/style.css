@@ -57,7 +57,7 @@ a, a:active, a:visited {
   }
 
   .container {
-    width: 85%;
+    /*width: 85%;*/
   }
 
   .profile--image {
@@ -73,7 +73,7 @@ a, a:active, a:visited {
   }
 
   .container {
-    width: 80%;
+    /*width: 80%;*/
   }
 
   .profile--image {
@@ -89,7 +89,7 @@ a, a:active, a:visited {
   }
 
   .container {
-    width: 60%;
+    /*width: 60%;*/
   }
 
   .profile--image {
