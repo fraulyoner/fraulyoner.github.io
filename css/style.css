@@ -75,9 +75,11 @@ footer > .contact--links > li {
 }
 
 footer > .contact--owner {
-  font-size: 50%;
+  font-size: 40%;
   vertical-align: super;
 }
+
+/* And now some extensions for bigger devices, mobile first for the win! */
 
 @media (min-width: 400px) {
 
