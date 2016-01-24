@@ -1,7 +1,6 @@
 body {
   margin: 0;
   padding: 0;
-  /*background-color: #F3F3F3;*/
   background: #F3F3F3 url("../img/img-noise.png") repeat fixed 0 0;
   color: #222;
   font-family: Georgia, ​ Helvetica, Helvetica Neue, Arial, sans-serif;
@@ -27,12 +26,9 @@ a, a:active, a:visited {
   margin: 0 auto;
 }
 
-.profile--image {
-  width: 60%;
-}
-
-.profile--name {
-  font-size: 200%;
+.logo {
+  font-size: 200%; /* alt text should be big enough */
+  width: 100%;
 }
 
 .pictures {
@@ -50,18 +46,26 @@ a, a:active, a:visited {
   background-color: #A63F4B;
 }
 
+header {
+  border-bottom: 1px solid #E5E5E5;
+  margin-top: 1em;
+  padding-bottom: 2em;
+}
+
 footer {
   border-top: 1px solid #E5E5E5;
   color: #777;
-  font-size: 200%;
-  text-align: center;
+  text-align: right;
   margin-top: 2em;
+  padding-top: 0.5em;
+  padding-bottom: 0.5em;
 }
 
 footer > .contact--links {
   list-style: none;
   margin: 0;
   padding: 0;
+  float: left;
 }
 
 footer > .contact--links > li {
@@ -71,7 +75,7 @@ footer > .contact--links > li {
 }
 
 footer > .contact--owner {
-  font-size: 0.3em;
+  font-size: 50%;
   vertical-align: super;
 }
 
@@ -83,10 +87,6 @@ footer > .contact--owner {
 
   .container {
     /*width: 85%;*/
-  }
-
-  .profile--image {
-    width: 50%;
   }
 
 }
@@ -101,18 +101,6 @@ footer > .contact--owner {
     /*width: 80%;*/
   }
 
-  .profile--image {
-    width: 40%;
-  }
-
-  footer {
-    text-align: right;
-  }
-
-  footer > .contact--links {
-    float: left;
-  }
-
 }
 
 @media (min-width: 800px) {
@@ -125,10 +113,6 @@ footer > .contact--owner {
     /*width: 60%;*/
   }
 
-  .profile--image {
-    width: 30%;
-  }
-
 }
 
 @media (min-width: 1200px) {
@@ -139,10 +123,6 @@ footer > .contact--owner {
 
   .container {
     width: 45%;
-  }
-
-  .profile--image {
-    width: 25%;
   }
 
 }
