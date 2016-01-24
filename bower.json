@@ -1,0 +1,20 @@
+{
+  "name": "fraulyoner.github.io",
+  "version": "0.1.0",
+  "homepage": "http:fraulyoner.github.io",
+  "authors": [
+    "Aljona Murygina <murygina@synyx.de>"
+  ],
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "fontawesome": "~4.5.0",
+    "normalize.css": "~3.0.3"
+  }
+}
