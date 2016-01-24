@@ -1,7 +1,8 @@
 body {
   margin: 0;
   padding: 0;
-  background-color: #F3F3F3;
+  /*background-color: #F3F3F3;*/
+  background: #F3F3F3 url("../img/img-noise.png") repeat fixed 0 0;
   color: #222;
   font-family: Georgia, ​ Helvetica, Helvetica Neue, Arial, sans-serif;
   font-size: 100%;
