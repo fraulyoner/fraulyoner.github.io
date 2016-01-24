@@ -36,8 +36,18 @@ a, a:active, a:visited {
 }
 
 .pictures {
-  max-width: 480px;
   margin: 0 auto;
+}
+
+.pictures a,
+.pictures a:active,
+.pictures a:visited {
+  color: transparent;
+}
+
+.pictures .lSSlideOuter .lSPager.lSpg > li.active a,
+.pictures .lSSlideOuter .lSPager.lSpg > li:hover a {
+  background-color: #A63F4B;
 }
 
 footer {
