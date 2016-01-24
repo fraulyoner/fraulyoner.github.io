@@ -6,7 +6,7 @@ body {
   color: #222;
   font-family: Georgia, ​ Helvetica, Helvetica Neue, Arial, sans-serif;
   /*font-size: 16px;*/
-  font-size: 1em;
+  font-size: 100%;
   line-height: 1.5;
 }
 
@@ -29,35 +29,87 @@ a, a:active, a:visited {
 }
 
 .profile--image {
-  width: 100%;
+  width: 60%;
 }
 
 .profile--name {
   font-size: 200%;
 }
 
-.profile--links {
+.contact--links {
   list-style: none;
   margin: 0;
   padding: 0;
   text-align: center;
 }
 
-.profile--links > li {
-  font-size: 3em;
+.contact--links > li {
+  font-size: 200%;
   display: inline-block;
   padding-left: 0.1em;
   padding-right: 0.1em;
 }
 
-@media (min-width: 601px) {
+@media (min-width: 400px) {
 
-  .profile--image {
-    width: 15em;
+  body {
+    font-size: 120%;
   }
 
-  .profile--name {
-    font-size: 300%;
+  .container {
+    width: 85%;
+  }
+
+  .profile--image {
+    width: 50%;
+  }
+
+}
+
+@media (min-width: 600px) {
+
+  body {
+    font-size: 150%;
+  }
+
+  .container {
+    width: 80%;
+  }
+
+  .profile--image {
+    width: 40%;
+  }
+
+}
+
+@media (min-width: 800px) {
+
+  body {
+    font-size: 180%;
+  }
+
+  .container {
+    width: 60%;
+  }
+
+  .profile--image {
+    width: 30%;
+  }
+
+}
+
+@media (min-width: 1200px) {
+
+  body {
+    font-size: 200%;
+  }
+
+  .container {
+    width: 45%;
+  }
+
+  .profile--image {
+    width: 25%;
   }
 
 }
