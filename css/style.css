@@ -60,6 +60,7 @@ a.is-active {
 
 .pictures img {
   width: 100%;
+  border: 1px solid #E5E5E5;
 }
 
 .pictures a,
