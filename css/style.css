@@ -25,8 +25,7 @@ a:visited {
 
 a:hover,
 a.is-active {
-  opacity: .8;
-  /*color: #CF5A6A;*/
+  text-decoration: underline;
 }
 
 a.is-active {
