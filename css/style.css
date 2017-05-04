@@ -8,11 +8,16 @@ body {
   line-height: 1.5;
 }
 
+p {
+  text-align: justify;
+}
+
 img {
   display: block;
   margin-left: auto;
   margin-right: auto;
   text-align: center; /* ensure alt text of image is centered too */
+  width: 100%;
 }
 
 a,
@@ -51,26 +56,6 @@ a.is-active {
   width: 25%;
   float: right;
   border-radius: 50%;
-}
-
-.pictures {
-  margin: 0 auto;
-}
-
-.pictures img {
-  width: 100%;
-  border: 1px solid #E5E5E5;
-}
-
-.pictures a,
-.pictures a:active,
-.pictures a:visited {
-  color: transparent;
-}
-
-.pictures .lSSlideOuter .lSPager.lSpg > li.active a,
-.pictures .lSSlideOuter .lSPager.lSpg > li:hover a {
-  background-color: #A63F4B;
 }
 
 header {
@@ -127,9 +112,7 @@ footer > .contact--owner {
 }
 
 @media (min-width: 480px) {
-  .pictures img {
-    width: auto;
-  }
+  /* OK */
 }
 
 @media (min-width: 600px) {
