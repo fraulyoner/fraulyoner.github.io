@@ -1,9 +1,8 @@
 {
   "name": "fraulyoner.github.io",
-  "version": "0.1.0",
-  "homepage": "http:fraulyoner.github.io",
+  "version": "0.2.0-SNAPSHOT",
   "authors": [
-    "Aljona Murygina <murygina@synyx.de>"
+    "Aljona Buchloh <aljona.buchloh@gmail.com>"
   ],
   "private": true,
   "ignore": [
