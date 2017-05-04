@@ -59,7 +59,6 @@ a.is-active {
 }
 
 header {
-  border-bottom: 1px solid #E5E5E5;
   margin-top: 2em;
   padding-bottom: 2em;
 }
@@ -71,7 +70,6 @@ nav {
 }
 
 footer {
-  border-top: 1px solid #E5E5E5;
   color: #777;
   text-align: right;
   margin-top: 2em;
