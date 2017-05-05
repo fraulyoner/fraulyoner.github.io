@@ -1,11 +1,14 @@
 body {
-  background: #F3F3F3 url("../img/img-noise.png") repeat fixed 0 0;
-  color: #000;
+  background: #F9F9F9;
+  color: #222;
   font-family: "Georgia", "Helvetica", "Helvetica Neue", "Arial", sans-serif;
   font-size: 100%;
   line-height: 1.5;
   margin: 0;
   padding: 0; }
+  body h2 {
+    color: #111;
+    margin-top: 1.5em; }
   body p {
     text-align: justify; }
   body img {
@@ -84,13 +87,13 @@ footer {
     vertical-align: super; }
 
 .logo {
+  display: inline-block;
   font-size: 200%;
   /* alt text should be big enough */
-  display: inline-block;
   vertical-align: top; }
   .logo.logo--left {
     width: 65%; }
   .logo.logo--right {
-    width: 25%;
+    border-radius: 50%;
     float: right;
-    border-radius: 50%; }
+    width: 25%; }

@@ -1,14 +1,20 @@
 body {
-  $_bg: #F3F3F3;
-  $_text-color: #000;
+  $_bg: #F9F9F9;
+  $_text-color: #222;
+  $_heading-color: #111;
 
-  background: $_bg url("../img/img-noise.png") repeat fixed 0 0;
+  background: $_bg;
   color: $_text-color;
   font-family: "Georgia", "Helvetica", "Helvetica Neue", "Arial", sans-serif;
   font-size: 100%;
   line-height: 1.5;
   margin: 0;
   padding: 0;
+
+  h2 {
+    color: $_heading-color;
+    margin-top: 1.5em;
+  }
 
   p {
     text-align: justify;
