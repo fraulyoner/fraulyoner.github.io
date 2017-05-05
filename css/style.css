@@ -1,154 +1,96 @@
 body {
-  margin: 0;
-  padding: 0;
   background: #F3F3F3 url("../img/img-noise.png") repeat fixed 0 0;
   color: #000;
   font-family: "Georgia", "Helvetica", "Helvetica Neue", "Arial", sans-serif;
   font-size: 100%;
   line-height: 1.5;
-}
+  margin: 0;
+  padding: 0; }
+  body p {
+    text-align: justify; }
+  body img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    /* ensure alt text of image is centered too */
+    width: 100%; }
+  body .container {
+    margin: 0 auto;
+    width: 90%; }
+  body header {
+    margin-top: 2em;
+    padding-bottom: 2em; }
+  body nav {
+    font-size: 80%;
+    margin-top: 1em;
+    text-align: right; }
 
-p {
-  text-align: justify;
-}
+/* And now some extensions for bigger devices, mobile first for the win! */
+@media (min-width: 400px) {
+  body {
+    font-size: 120%; }
+    body .container {
+      /*width: 85%;*/ } }
 
-img {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  text-align: center; /* ensure alt text of image is centered too */
-  width: 100%;
-}
+@media (min-width: 480px) {
+  /* OK */ }
 
-a,
-a:active,
-a:visited {
-  text-decoration: none;
+@media (min-width: 600px) {
+  body {
+    font-size: 150%; }
+    body .container {
+      /*width: 80%;*/ } }
+
+@media (min-width: 800px) {
+  body {
+    font-size: 180%; }
+    body .container {
+      /*width: 60%;*/ } }
+
+@media (min-width: 1200px) {
+  body {
+    font-size: 200%; }
+    body .container {
+      width: 45%; }
+    body nav {
+      font-size: 50%; } }
+
+a {
   color: #A63F4B;
-  font-weight: bold;
-}
-
-a:hover,
-a.is-active {
-  text-decoration: underline;
-}
-
-a.is-active {
-  text-decoration: underline;
-}
-
-.container {
-  width: 90%;
-  margin: 0 auto;
-}
-
-.logo {
-  font-size: 200%; /* alt text should be big enough */
-  display: inline-block;
-  vertical-align: top;
-}
-
-.logo--left {
-  width: 65%;
-}
-
-.logo--right {
-  width: 25%;
-  float: right;
-  border-radius: 50%;
-}
-
-header {
-  margin-top: 2em;
-  padding-bottom: 2em;
-}
-
-nav {
-  margin-top: 1em;
-  text-align: right;
-  font-size: 80%;
-}
+  font-weight: bold; }
+  a, a:active, a:visited {
+    text-decoration: none; }
+  a:hover, a.is-active {
+    text-decoration: underline; }
 
 footer {
   color: #777;
-  text-align: right;
   margin-top: 2em;
-  padding-top: 0.5em;
   padding-bottom: 0.5em;
-}
+  padding-top: 0.5em;
+  text-align: right; }
+  footer > .contact--links {
+    float: left;
+    list-style: none;
+    margin: 0;
+    padding: 0; }
+    footer > .contact--links > li {
+      display: inline-block;
+      padding-left: 0.1em;
+      padding-right: 0.1em; }
+  footer > .contact--owner {
+    font-size: 40%;
+    vertical-align: super; }
 
-footer > .contact--links {
-  list-style: none;
-  margin: 0;
-  padding: 0;
-  float: left;
-}
-
-footer > .contact--links > li {
+.logo {
+  font-size: 200%;
+  /* alt text should be big enough */
   display: inline-block;
-  padding-left: 0.1em;
-  padding-right: 0.1em;
-}
-
-footer > .contact--owner {
-  font-size: 40%;
-  vertical-align: super;
-}
-
-/* And now some extensions for bigger devices, mobile first for the win! */
-
-@media (min-width: 400px) {
-
-  body {
-    font-size: 120%;
-  }
-
-  .container {
-    /*width: 85%;*/
-  }
-
-}
-
-@media (min-width: 480px) {
-  /* OK */
-}
-
-@media (min-width: 600px) {
-
-  body {
-    font-size: 150%;
-  }
-
-  .container {
-    /*width: 80%;*/
-  }
-
-}
-
-@media (min-width: 800px) {
-
-  body {
-    font-size: 180%;
-  }
-
-  .container {
-    /*width: 60%;*/
-  }
-
-}
-
-@media (min-width: 1200px) {
-
-  body {
-    font-size: 200%;
-  }
-
-  .container {
-    width: 45%;
-  }
-
-  nav {
-    font-size: 50%;
-  }
-
-}
+  vertical-align: top; }
+  .logo.logo--left {
+    width: 65%; }
+  .logo.logo--right {
+    width: 25%;
+    float: right;
+    border-radius: 50%; }

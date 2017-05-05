@@ -1,0 +1,17 @@
+a {
+  $_color: #A63F4B;
+
+  color: $_color;
+  font-weight: bold;
+
+  &,
+  &:active,
+  &:visited {
+    text-decoration: none;
+  }
+
+  &:hover,
+  &.is-active {
+    text-decoration: underline;
+  }
+}

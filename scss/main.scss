@@ -1,0 +1,10 @@
+$xs-device: 400px;
+$sm-device: 480px;
+$md-device: 600px;
+$lg-device: 800px;
+$xl-device: 1200px;
+
+@import "base";
+@import "link";
+@import "footer";
+@import "logo";

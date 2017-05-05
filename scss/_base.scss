@@ -1,0 +1,99 @@
+body {
+  $_bg: #F3F3F3;
+  $_text-color: #000;
+
+  background: $_bg url("../img/img-noise.png") repeat fixed 0 0;
+  color: $_text-color;
+  font-family: "Georgia", "Helvetica", "Helvetica Neue", "Arial", sans-serif;
+  font-size: 100%;
+  line-height: 1.5;
+  margin: 0;
+  padding: 0;
+
+  p {
+    text-align: justify;
+  }
+
+  img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center; /* ensure alt text of image is centered too */
+    width: 100%;
+  }
+
+  .container {
+    margin: 0 auto;
+    width: 90%;
+  }
+
+  header {
+    margin-top: 2em;
+    padding-bottom: 2em;
+  }
+
+  nav {
+    font-size: 80%;
+    margin-top: 1em;
+    text-align: right;
+  }
+
+}
+
+/* And now some extensions for bigger devices, mobile first for the win! */
+
+@media (min-width: $xs-device) {
+
+  body {
+    font-size: 120%;
+
+    .container {
+      /*width: 85%;*/
+    }
+  }
+
+}
+
+@media (min-width: $sm-device) {
+  /* OK */
+}
+
+@media (min-width: $md-device) {
+
+  body {
+    font-size: 150%;
+
+    .container {
+      /*width: 80%;*/
+    }
+  }
+
+}
+
+@media (min-width: $lg-device) {
+
+  body {
+    font-size: 180%;
+
+    .container {
+      /*width: 60%;*/
+    }
+  }
+
+}
+
+@media (min-width: $xl-device) {
+
+  body {
+    font-size: 200%;
+
+    .container {
+      width: 45%;
+    }
+
+    nav {
+      font-size: 50%;
+    }
+  }
+
+}

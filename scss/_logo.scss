@@ -1,0 +1,15 @@
+.logo {
+  display: inline-block;
+  font-size: 200%; /* alt text should be big enough */
+  vertical-align: top;
+
+  &.logo--left {
+    width: 65%;
+  }
+
+  &.logo--right {
+    border-radius: 50%;
+    float: right;
+    width: 25%;
+  }
+}

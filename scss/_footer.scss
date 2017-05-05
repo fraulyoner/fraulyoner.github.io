@@ -1,0 +1,28 @@
+footer {
+  $_color: #777;
+
+  color: $_color;
+  margin-top: 2em;
+  padding-bottom: 0.5em;
+  padding-top: 0.5em;
+  text-align: right;
+
+  > .contact--links {
+    float: left;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+
+    > li {
+      display: inline-block;
+      padding-left: 0.1em;
+      padding-right: 0.1em;
+    }
+  }
+
+  > .contact--owner {
+    font-size: 40%;
+    vertical-align: super;
+  }
+
+}
