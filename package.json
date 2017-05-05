@@ -1,0 +1,23 @@
+{
+  "name": "fraulyoner.github.io",
+  "version": "0.2.0-SNAPSHOT",
+  "author": "Aljona Buchloh",
+  "description": "My personal homepage",
+  "license": "none",
+  "scripts": {
+    "html-de": "template-html sources/index_de.html -t sources/template.html",
+    "html-en": "template-html sources/index.html -t sources/template.html",
+    "html": "npm run html-de && npm run html-en"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fraulyoner/fraulyoner.github.io.git"
+  },
+  "bugs": {
+    "url": "https://github.com/fraulyoner/fraulyoner.github.io/issues"
+  },
+  "homepage": "https://github.com/fraulyoner/fraulyoner.github.io#readme",
+  "devDependencies": {
+    "template-html": "^0.3.0"
+  }
+}
