@@ -10,7 +10,8 @@ body {
     color: #111;
     margin-top: 1.5em; }
   body p {
-    text-align: justify; }
+    text-align: justify;
+    vertical-align: top; }
   body img {
     display: block;
     margin-left: auto;
