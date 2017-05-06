@@ -5,6 +5,7 @@
   "description": "My personal homepage",
   "license": "none",
   "scripts": {
+    "bower": "bower install",
     "html-de": "template-html sources/index_de.html -t sources/template.html",
     "html-en": "template-html sources/index.html -t sources/template.html",
     "html": "npm run html-de && npm run html-en",
@@ -19,6 +20,7 @@
   },
   "homepage": "https://github.com/fraulyoner/fraulyoner.github.io#readme",
   "devDependencies": {
+    "bower": "^1.8.0",
     "node-sass": "^4.5.2",
     "template-html": "^0.3.0"
   }
