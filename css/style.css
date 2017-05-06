@@ -61,9 +61,6 @@ a {
     text-decoration: none; }
   a:hover, a.is-active {
     text-decoration: underline; }
-  a.icon {
-    float: left;
-    margin-right: 0.5em; }
 
 footer {
   color: #777;
@@ -95,3 +92,14 @@ footer {
     border-radius: 50%;
     float: right;
     width: 25%; }
+
+.contact {
+  display: table; }
+  .contact > .contact--icon,
+  .contact > .contact--description {
+    display: table-cell;
+    vertical-align: middle; }
+  .contact > .contact--icon {
+    width: 1%; }
+  .contact > .contact--description {
+    padding-left: 0.5em; }

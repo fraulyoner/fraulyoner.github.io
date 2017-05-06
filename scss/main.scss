@@ -4,7 +4,12 @@ $md-device: 600px;
 $lg-device: 800px;
 $xl-device: 1200px;
 
+$text-color: #222;
+$heading-color: #111;
+$link-color: #A63F4B;
+
 @import "base";
 @import "link";
 @import "footer";
 @import "logo";
+@import "contact";

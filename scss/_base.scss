@@ -1,10 +1,8 @@
 body {
   $_bg: #F9F9F9;
-  $_text-color: #222;
-  $_heading-color: #111;
 
   background: $_bg;
-  color: $_text-color;
+  color: $text-color;
   font-family: "Georgia", "Helvetica", "Helvetica Neue", "Arial", sans-serif;
   font-size: 100%;
   line-height: 1.5;
@@ -12,7 +10,7 @@ body {
   padding: 0;
 
   h2 {
-    color: $_heading-color;
+    color: $heading-color;
     margin-top: 1.5em;
   }
 

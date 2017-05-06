@@ -1,7 +1,5 @@
 a {
-  $_color: #A63F4B;
-
-  color: $_color;
+  color: $link-color;
   font-weight: bold;
 
   &,
@@ -13,10 +11,5 @@ a {
   &:hover,
   &.is-active {
     text-decoration: underline;
-  }
-
-  &.icon {
-    float: left;
-    margin-right: 0.5em;
   }
 }
