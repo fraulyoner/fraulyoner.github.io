@@ -45,7 +45,7 @@ body {
   body {
     font-size: 160%; }
     body .container {
-      /*width: 60%;*/ } }
+      width: 60%; } }
 
 @media (min-width: 1200px) {
   body {
@@ -60,6 +60,9 @@ a {
     text-decoration: none; }
   a:hover, a.is-active {
     text-decoration: underline; }
+  a.icon {
+    float: left;
+    margin-right: 0.5em; }
 
 footer {
   color: #777;

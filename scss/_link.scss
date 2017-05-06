@@ -14,4 +14,9 @@ a {
   &.is-active {
     text-decoration: underline;
   }
+
+  &.icon {
+    float: left;
+    margin-right: 0.5em;
+  }
 }
