@@ -25,6 +25,13 @@ body {
   body header {
     margin-bottom: 2em;
     margin-top: 2em; }
+  body footer {
+    color: #777;
+    font-size: 60%;
+    margin-top: 4em;
+    padding-bottom: 1em;
+    padding-top: 1em;
+    text-align: center; }
 
 /* And now some extensions for bigger devices, mobile first for the win! */
 @media (min-width: 400px) {
@@ -61,25 +68,6 @@ a {
     text-decoration: none; }
   a:hover, a.is-active {
     text-decoration: underline; }
-
-footer {
-  color: #777;
-  margin-top: 2em;
-  padding-bottom: 0.5em;
-  padding-top: 0.5em;
-  text-align: right; }
-  footer > .contact--links {
-    float: left;
-    list-style: none;
-    margin: 0;
-    padding: 0; }
-    footer > .contact--links > li {
-      display: inline-block;
-      padding-left: 0.1em;
-      padding-right: 0.1em; }
-  footer > .contact--owner {
-    font-size: 40%;
-    vertical-align: super; }
 
 .logo {
   display: inline-block;
