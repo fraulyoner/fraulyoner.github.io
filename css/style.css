@@ -22,12 +22,8 @@ body {
     margin: 0 auto;
     width: 90%; }
   body header {
-    margin-top: 2em;
-    padding-bottom: 2em; }
-  body nav {
-    font-size: 80%;
-    margin-top: 1em;
-    text-align: right; }
+    margin-bottom: 2em;
+    margin-top: 2em; }
 
 /* And now some extensions for bigger devices, mobile first for the win! */
 @media (min-width: 400px) {
@@ -55,9 +51,7 @@ body {
   body {
     font-size: 170%; }
     body .container {
-      width: 45%; }
-    body nav {
-      font-size: 50%; } }
+      width: 45%; } }
 
 a {
   color: #A63F4B;
