@@ -6,10 +6,9 @@
   "license": "none",
   "scripts": {
     "bower": "bower install",
-    "html-de": "template-html sources/index_de.html -t sources/template.html",
-    "html-en": "template-html sources/index.html -t sources/template.html",
-    "html": "npm run html-de && npm run html-en",
-    "sass": "node-sass --include-path scss scss/main.scss css/style.css"
+    "html": "template-html sources/index_de.html -t sources/template.html && template-html sources/index.html -t sources/template.html",
+    "sass": "node-sass --include-path scss scss/main.scss css/style.css",
+    "build": "npm run html && npm run sass"
   },
   "repository": {
     "type": "git",
