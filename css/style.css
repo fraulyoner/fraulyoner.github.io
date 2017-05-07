@@ -6,12 +6,9 @@ body {
   line-height: 1.5;
   margin: 0;
   padding: 0; }
-  body h2 {
+  body h1, body h2, body h3, body h4, body h5 {
     color: #111;
     margin-top: 1.5em; }
-  body p {
-    text-align: justify;
-    vertical-align: top; }
   body img {
     display: block;
     margin-left: auto;
