@@ -8,7 +8,8 @@
     "bower": "bower install",
     "html": "template-html sources/index_de.html -t sources/template.html && template-html sources/index.html -t sources/template.html",
     "sass": "node-sass --include-path scss scss/main.scss css/style.css",
-    "build": "npm run html && npm run sass"
+    "minify": "minify css/style.css",
+    "build": "npm run html && npm run sass && npm run minify"
   },
   "repository": {
     "type": "git",
@@ -20,6 +21,7 @@
   "homepage": "https://github.com/fraulyoner/fraulyoner.github.io#readme",
   "devDependencies": {
     "bower": "^1.8.0",
+    "minifier": "^0.8.1",
     "node-sass": "^4.5.2",
     "template-html": "^0.3.0"
   }
