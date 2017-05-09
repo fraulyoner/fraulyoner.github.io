@@ -1,13 +1,39 @@
+@font-face {
+  font-family: "Roboto";
+  src: url("../lib/roboto-fontface/fonts/Roboto/Roboto-Light.eot");
+  src: local("Roboto Light"), local("Roboto-Light"), url("../lib/roboto-fontface/fonts/Roboto/Roboto-Light.eot?#iefix") format("embedded-opentype"), url("../lib/roboto-fontface/fonts/Roboto/Roboto-Light.woff2") format("woff2"), url("../lib/roboto-fontface/fonts/Roboto/Roboto-Light.woff") format("woff"), url("../lib/roboto-fontface/fonts/Roboto/Roboto-Light.ttf") format("truetype"), url("../lib/roboto-fontface/fonts/Roboto/Roboto-Light.svg#Roboto") format("svg");
+  font-weight: 300;
+  font-style: normal; }
+
+@font-face {
+  font-family: "Roboto-Light";
+  src: url("../lib/roboto-fontface/fonts/Roboto/Roboto-Light.eot");
+  src: local("Roboto Light"), local("Roboto-Light"), url("../lib/roboto-fontface/fonts/Roboto/Roboto-Light.eot?#iefix") format("embedded-opentype"), url("../lib/roboto-fontface/fonts/Roboto/Roboto-Light.woff2") format("woff2"), url("../lib/roboto-fontface/fonts/Roboto/Roboto-Light.woff") format("woff"), url("../lib/roboto-fontface/fonts/Roboto/Roboto-Light.ttf") format("truetype"), url("../lib/roboto-fontface/fonts/Roboto/Roboto-Light.svg#Roboto") format("svg"); }
+
+@font-face {
+  font-family: "Roboto";
+  src: url("../lib/roboto-fontface/fonts/Roboto/Roboto-Medium.eot");
+  src: local("Roboto Medium"), local("Roboto-Medium"), url("../lib/roboto-fontface/fonts/Roboto/Roboto-Medium.eot?#iefix") format("embedded-opentype"), url("../lib/roboto-fontface/fonts/Roboto/Roboto-Medium.woff2") format("woff2"), url("../lib/roboto-fontface/fonts/Roboto/Roboto-Medium.woff") format("woff"), url("../lib/roboto-fontface/fonts/Roboto/Roboto-Medium.ttf") format("truetype"), url("../lib/roboto-fontface/fonts/Roboto/Roboto-Medium.svg#Roboto") format("svg");
+  font-weight: 500;
+  font-style: normal; }
+
+@font-face {
+  font-family: "Roboto-Medium";
+  src: url("../lib/roboto-fontface/fonts/Roboto/Roboto-Medium.eot");
+  src: local("Roboto Medium"), local("Roboto-Medium"), url("../lib/roboto-fontface/fonts/Roboto/Roboto-Medium.eot?#iefix") format("embedded-opentype"), url("../lib/roboto-fontface/fonts/Roboto/Roboto-Medium.woff2") format("woff2"), url("../lib/roboto-fontface/fonts/Roboto/Roboto-Medium.woff") format("woff"), url("../lib/roboto-fontface/fonts/Roboto/Roboto-Medium.ttf") format("truetype"), url("../lib/roboto-fontface/fonts/Roboto/Roboto-Medium.svg#Roboto") format("svg"); }
+
 body {
   background: #FAFAFA;
   color: #222;
-  font-family: "Georgia", "Helvetica", "Helvetica Neue", "Arial", sans-serif;
+  font-family: "Roboto-Light";
   font-size: 100%;
   line-height: 1.5;
   margin: 0;
   padding: 0; }
   body h1, body h2, body h3, body h4, body h5 {
     color: #111;
+    font-family: "Roboto-Medium";
+    font-weight: normal;
     margin-top: 1.5em; }
   body img {
     display: block;
@@ -60,7 +86,7 @@ body {
 
 a {
   color: #A63F4B;
-  font-weight: bold; }
+  font-family: "Roboto-Medium"; }
   a, a:active, a:visited {
     text-decoration: none; }
   a:hover, a.is-active {

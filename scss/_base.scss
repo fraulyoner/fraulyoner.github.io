@@ -1,7 +1,7 @@
 body {
   background: $bg;
   color: $text-color;
-  font-family: "Georgia", "Helvetica", "Helvetica Neue", "Arial", sans-serif;
+  font-family: $font-family-regular;
   font-size: 100%;
   line-height: 1.5;
   margin: 0;
@@ -9,6 +9,8 @@ body {
 
   h1, h2, h3, h4, h5 {
     color: $heading-color;
+    font-family: $font-family-emphasized;
+    font-weight: normal;
     margin-top: 1.5em;
   }
 
