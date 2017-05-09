@@ -47,7 +47,8 @@ body {
     width: 90%; }
   body header {
     margin-bottom: 2em;
-    margin-top: 2em; }
+    margin-top: 2em;
+    text-align: center; }
   body footer {
     color: #777;
     font-size: 60%;
@@ -93,15 +94,13 @@ a {
     text-decoration: underline; }
 
 .logo {
-  display: inline-block;
   font-size: 200%;
   /* alt text should be big enough */
   vertical-align: top; }
-  .logo.logo--left {
-    width: 65%; }
-  .logo.logo--right {
+  .logo.logo--lettering {
+    width: 40%; }
+  .logo.logo--profile {
     border-radius: 50%;
-    float: right;
     width: 25%; }
 
 .contact {
