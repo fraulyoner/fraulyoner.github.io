@@ -23,7 +23,7 @@
   src: local("Roboto Medium"), local("Roboto-Medium"), url("../lib/roboto-fontface/fonts/Roboto/Roboto-Medium.eot?#iefix") format("embedded-opentype"), url("../lib/roboto-fontface/fonts/Roboto/Roboto-Medium.woff2") format("woff2"), url("../lib/roboto-fontface/fonts/Roboto/Roboto-Medium.woff") format("woff"), url("../lib/roboto-fontface/fonts/Roboto/Roboto-Medium.ttf") format("truetype"), url("../lib/roboto-fontface/fonts/Roboto/Roboto-Medium.svg#Roboto") format("svg"); }
 
 body {
-  background: #FAFAFA;
+  background: #FCFCFC;
   color: #222;
   font-family: "Roboto-Light";
   font-size: 100%;
