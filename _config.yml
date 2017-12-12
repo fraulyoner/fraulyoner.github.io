@@ -1,2 +1,24 @@
 title: fraulyoner
-baseUrl: "/blog"
+
+user:
+  - email: aljona.buchloh@gmail.com
+  - github: https://github.com/fraulyoner
+  - twitter: https://twitter.com/FrauLyoner
+  - instagram: https://www.instagram.com/fraulyoner/
+
+links:
+    - magic: https://www.linkedin.com/pulse/20140912183833-3226221-the-magic-of-coding-why-programmers-are-modern-day-wizards
+    - company: http://synyx.de/
+    - location: https://www.google.de/maps/place/Karlsruhe/@49.0157643,8.269451,11z/data=!4m2!3m1!1s0x47970648a2e07809:0xb6fc55734cb7ee7f
+    - uv: https://github.com/synyx/urlaubsverwaltung
+    - where2dump: http://where2dump.com
+    - lettering: https://www.smashingmagazine.com/2013/01/understanding-difference-between-type-and-lettering/
+
+# Exclude these files from your production _site
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - bower.json
+  - package.json
+  - README.md
+  - CNAME
