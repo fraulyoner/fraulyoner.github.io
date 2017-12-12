@@ -16,7 +16,7 @@ links:
 
 # Set the Sass partials directory due to use of @imports
 sass:
-  style: :compressed # not minified -> :expanded
+  style: :expanded
 
 # Exclude these files from your production _site
 exclude:
@@ -26,5 +26,3 @@ exclude:
   - package.json
   - README.md
   - CNAME
-  - lib/fontawesome
-  - lib/normalize.css
