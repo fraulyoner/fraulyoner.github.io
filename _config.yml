@@ -26,4 +26,5 @@ exclude:
   - package.json
   - README.md
   - CNAME
-  - lib/
+  - lib/fontawesome
+  - lib/normalize.css
