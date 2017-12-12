@@ -16,7 +16,7 @@ links:
 
 # Set the Sass partials directory due to use of @imports
 sass:
-  style: :expanded # to minify use :compressed
+  style: :compressed # not minified -> :expanded
 
 # Exclude these files from your production _site
 exclude:
