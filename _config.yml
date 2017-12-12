@@ -14,6 +14,10 @@ links:
   where2dump: http://where2dump.com
   lettering: https://www.smashingmagazine.com/2013/01/understanding-difference-between-type-and-lettering/
 
+# Set the Sass partials directory due to use of @imports
+sass:
+  style: :expanded # to minify use :compressed
+
 # Exclude these files from your production _site
 exclude:
   - Gemfile
