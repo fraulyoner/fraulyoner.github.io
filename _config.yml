@@ -26,3 +26,4 @@ exclude:
   - package.json
   - README.md
   - CNAME
+  - lib/
