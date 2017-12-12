@@ -17,6 +17,9 @@ links:
 # Set the Sass partials directory due to use of @imports
 sass:
   style: :expanded
+  load_paths:
+    - _sass
+    - lib
 
 # Exclude these files from your production _site
 exclude:
