@@ -6,8 +6,8 @@
   ],
   "private": true,
   "dependencies": {
-    "fontawesome": "~4.5.0",
-    "normalize.css": "~3.0.3",
-    "roboto-fontface": "~0.7.0"
+    "fontawesome": "4.5.0",
+    "normalize.css": "3.0.3",
+    "roboto-fontface": "0.7.0"
   }
 }
