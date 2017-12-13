@@ -3,6 +3,7 @@ layout: blog
 ---
 
 <p>
+  Die Frau Lyoner möchte jetzt bloggen. Warum und so?
   Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
   eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
   voluptua. At vero eos et accusam et justo duo dolores et ea rebum.
@@ -13,12 +14,13 @@ layout: blog
   <article class="post">
 
     <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+    <p class="date">{{ post.date | date: "%B %e, %Y" }}</p>
 
     <div class="entry">
       {{ post.excerpt }}
     </div>
 
-    <small><a href="{{ post.url }}" class="read-more">Read More</a></small>
+    <p class="more"><a href="{{ post.url }}" class="read-more">[Mehr lesen]</a></p>
   </article>
   {% endfor %}
 </div>

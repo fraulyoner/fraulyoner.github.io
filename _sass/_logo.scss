@@ -3,12 +3,25 @@
   vertical-align: top;
 
   &.logo--lettering {
-    width: 50%;
+    width: 100%;
+
+    @media (min-width: $sm-device) {
+      width: 60%;
+    }
+    @media (min-width: $md-device) {
+      width: 50%;
+    }
+
   }
 
   &.logo--profile {
     border-radius: 50%;
-    width: 25%;
+    width: 40%;
+
+    @media (min-width: $sm-device) {
+      width: 25%;
+    }
+
     margin-top: 0.5em;
     margin-bottom: 0.5em;
   }
