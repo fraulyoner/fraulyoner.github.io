@@ -1,0 +1,15 @@
+---
+layout: blog
+---
+
+<article class="post">
+  <h3>{{ page.title }}</h3>
+
+  <div class="entry">
+    {{ content }}
+  </div>
+
+  <small class="date">
+    Written on {{ page.date | date: "%B %e, %Y" }}
+  </small>
+</article>
