@@ -1,23 +1,12 @@
-<!DOCTYPE html>
-<html lang="de">
-<head>
-  {% include meta.html %}
-</head>
-<body>
+---
+layout: default
+---
 
-<div class="container">
-  <header>
-    <div>
-      <h1>Willkommen / <a href="index.html">Welcome</a></h1>
-      <p>Hi, ich bin Frau Lyoner.<br/>Ich erwecke Ideen zum Leben.</p>
-    </div>
-    {% include logo.html %}
-  </header>
+<header>
+  <h1>Willkommen / <a href="index.html">Welcome</a></h1>
+  <p>Hi, ich bin Frau Lyoner.<br/>Ich erwecke Ideen zum Leben.</p>
+  {% include avatar.html %}
+  {% include logo.html %}
+</header>
 
-  {{content}}
-
-  {% include footer.html %}
-</div>
-
-</body>
-</html>
+{{content}}
