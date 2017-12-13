@@ -3,10 +3,13 @@ layout: default
 ---
 
 <header>
-  <h1>Welcome / <a href="index_de.html">Willkommen</a></h1>
-  <p>Hi, I'm frau lyoner.<br/>I make ideas come alive.</p>
+  <h2>Welcome / <a href="index_de.html">Willkommen</a></h2>
   {% include avatar.html %}
-  {% include logo.html %}
+  <div class="logo-container">
+    <p>Hi, I'm</p>
+    {% include logo.html %}
+    <p>I make ideas come alive.</p>
+  </div>
 </header>
 
 {{content}}
