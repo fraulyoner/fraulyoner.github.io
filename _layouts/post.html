@@ -3,8 +3,8 @@ layout: blog
 ---
 
 <article class="post">
-  <h3>{{ page.title }}</h3>
-  <p class="date">{{ page.date | date: "%B %e, %Y" }}</p>
+  <h3><a href="{{ page.url }}">{{ page.title }}</a></h3>
+  <p class="date">{{ page.date | date: "%d.%m.%Y" }} von fraulyoner</p>
 
   <div class="entry">
     {{ content }}
