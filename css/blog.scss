@@ -5,6 +5,9 @@
 
 body {
 
+  $font-small: 80%;
+  $font-smaller: 75%;
+
   header {
     text-align: left;
     margin-top: 1em;
@@ -20,7 +23,7 @@ body {
     }
 
     p {
-      font-size: 90%;
+      font-size: $font-small;
       margin: 0;
     }
 
@@ -28,12 +31,16 @@ body {
 
   .logo.logo--profile {
     float: left;
-    margin: 0.5em 0.5em 0 0.5em;
+    margin: 0 0.5em 0 0.5em;
     width: 15%;
   }
 
+  .intro {
+    font-size: $font-small;
+  }
+
   .posts {
-    font-size: 80%;
+  /* OK */
   }
 
   .post {
@@ -46,12 +53,12 @@ body {
 
     .date {
       margin: 0;
-      font-size: 75%;
+      font-size: $font-smaller;
       color: $text-decent-color;
     }
 
     .more {
-      font-size: 75%;
+      font-size: $font-smaller;
     }
   }
 
