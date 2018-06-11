@@ -13,6 +13,7 @@ links:
   uv: https://github.com/synyx/urlaubsverwaltung
   where2dump: http://where2dump.com
   lettering: https://www.smashingmagazine.com/2013/01/understanding-difference-between-type-and-lettering/
+  blog: http://www.meinimalismus.de/
 
 # Set the Sass partials directory due to use of @imports
 sass:
