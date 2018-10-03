@@ -77,11 +77,19 @@ body {
 /* And now some extensions for bigger devices, mobile first for the win! */
 
 @media (min-width: $xs-device) {
-  /* OK */
+  body {
+    img {
+      width: 60%;
+    }
+  }
 }
 
 @media (min-width: $sm-device) {
-  /* OK */
+  body {
+    img {
+      width: 50%;
+    }
+  }
 }
 
 @media (min-width: $md-device) {
@@ -94,10 +102,6 @@ body {
     font-size: 110%;
 
     .container {
-      width: 60%;
-    }
-
-    img {
       width: 60%;
     }
   }
