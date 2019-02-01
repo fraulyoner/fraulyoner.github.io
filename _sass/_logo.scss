@@ -1,9 +1,18 @@
 .logo {
   font-size: 200%; /* alt text should be big enough */
   vertical-align: top;
+  border-radius: 50%;
+  width: 50%;
 }
 
-.profile {
-  margin-left: 0;
-  margin-top: 2em;
+@media (min-width: $xs-device) {
+  .logo {
+      width: 40%;
+  }
+}
+
+@media (min-width: $sm-device) {
+  .logo {
+      width: 30%;
+  }
 }
