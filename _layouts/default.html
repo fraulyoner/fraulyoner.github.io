@@ -1,15 +1,32 @@
 <!DOCTYPE html>
 <html>
 <head>
-  {% include meta.html %}
+  <meta charset="UTF-8">
+  <meta name="viewport"
+        content="width=device-width, initial-scale=1.0, user-scalable=no">
+  <title>{{ site.title }}</title>
+  <link rel="stylesheet" type="text/css"
+        href="/lib/normalize.css/normalize.css"/>
+  <link rel="stylesheet" type="text/css"
+        href="/lib/fontawesome/css/font-awesome.min.css">
+  <link rel="stylesheet" type="text/css" href="/css/style.css"/>
 </head>
 <body>
 
 <div class="container">
 
+  <header>
+    <small class="language">
+      <a href="index_de.html">DE</a> | <a href="index.html">EN</a>
+    </small>
+    <img alt="frau lyoner" src="/img/logo/profile_small.JPG" class="logo"/>
+  </header>
+
   {{content}}
 
-  {% include footer.html %}
+  <footer>
+    &copy; fraulyoner - Aljona Buchloh 2018 - <a href="impressum.html">Impressum</a>
+  </footer>
 </div>
 
 </body>
