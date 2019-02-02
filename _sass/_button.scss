@@ -1,0 +1,22 @@
+.button {
+  background-color: transparent;
+  border: 1px solid $link-color;
+  color: $link-color;
+  display: block;
+  font-size: 0.9em;
+  letter-spacing: 2px;
+  line-height: 3;
+  margin:0;
+  margin-top: 1em;
+  padding: 0 1em;
+  text-align: center;
+  text-decoration: none;
+  transition: background-color 0.3s ease;
+  vertical-align: middle;
+}
+
+.button:hover {
+  background-color: $link-hover-color;
+  color: $bg;
+  text-decoration: none;
+}

@@ -7,10 +7,10 @@ body {
   margin: 0;
   padding: 0;
 
-  h1 { font-size: 1.25em; }
-  h2 { font-size: 1.1em; }
-  h3 { font-size: 1em; }
-  h4 { font-size: 0.8em; }
+  h1 { font-size: 1.75em; }
+  h2 { font-size: 1.5em; }
+  h3 { font-size: 1.25em; }
+  h4 { font-size: 1em; }
   h5 { font-size: 0.75em; }
   h6 { font-size: 0.5em; }
 
@@ -96,7 +96,11 @@ body {
 }
 
 @media (min-width: $md-device) {
-  /* OK */
+  body {
+    .container {
+      width: 70%;
+    }
+  }
 }
 
 @media (min-width: $lg-device) {
