@@ -12,6 +12,7 @@ links:
   lettering: https://www.smashingmagazine.com/2013/01/understanding-difference-between-type-and-lettering/
   blog: https://www.gedankenshift.de/
   agile: https://blog.fraulyoner.de/
+  work: https://synyx.de/
 
 # Set the Sass partials directory due to use of @imports
 sass:
