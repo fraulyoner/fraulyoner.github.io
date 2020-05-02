@@ -72,20 +72,6 @@ layout: default
   <h2>Und sonst so?</h2>
 
   <p>
-    <a class="button" target="_blank" href="{{ site.user.twitter }}">
-      <i class="fa fa-lg fa-fw fa-twitter"></i> Folge mir auf Twitter
-    </a>
-    <a class="button" target="_blank" href="{{ site.user.instagram }}">
-      <i class="fa fa-lg fa-fw fa-instagram"></i> Folge mir auf Instagram
-    </a>
-    <a class="button" target="_blank" href="{{ site.user.pinterest }}">
-      <i class="fa fa-lg fa-fw fa-pinterest"></i> Folge mir auf Pinterest
-    </a>
-    <a class="button" target="_blank" href="{{ site.user.github }}">
-      <i class="fa fa-lg fa-fw fa-github-alt"></i> Folge mir auf GitHub
-    </a>
-    <a class="button" href="mailto:{{ site.user.email }}">
-      <i class="fa fa-fw fa-envelope"></i> Schreib mir eine E-Mail
-    </a>
+    {% include follow.html %}
   </p>
 </section>
