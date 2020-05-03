@@ -1,0 +1,29 @@
+.homeofficeabisz {
+  a:hover {
+    text-decoration: none;
+  }
+
+  img {
+    display: inline-block;
+    margin-left: 0;
+    margin-right: 0;
+    text-align: center; /* ensure alt text of image is centered too */
+    width: auto;
+  }
+}
+
+@media (min-width: $xs-device) {
+  body {
+    .homeofficeabisz img {
+      width: 40%;
+    }
+  }
+}
+
+@media (min-width: $sm-device) {
+  body {
+    .homeofficeabisz img {
+      width: 30%;
+    }
+  }
+}
