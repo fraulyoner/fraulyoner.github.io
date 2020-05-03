@@ -12,7 +12,6 @@ links:
   sketchnotes: https://sketchnoting.net/
   blog: https://www.gedankenshift.de/
   agile: https://www.fraulyoner.de/agile/
-  work: https://synyx.de/
 
 # Set the Sass partials directory due to use of @imports
 sass:
