@@ -27,7 +27,7 @@ Datenschutzgrundverordnung (DSGVO).
 
 E-Mail: [{{ site.data.social.email_address }}](mailto:{{ site.data.social.email_address }})
 
-Impressum: [{{ site.url }}/impressum.html]({{ site.baseurl }}/impressum.html)
+Impressum: [{{ site.url }}/impressum.html]({{ site.baseurl }}/impressum/)
 
 ### Arten der verarbeiteten Daten {#dsg-general-datatype}
 
