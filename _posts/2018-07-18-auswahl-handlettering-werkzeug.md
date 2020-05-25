@@ -1,46 +1,35 @@
 ---
 layout: post
-title: "Handlettering – Eine Reise durch den Dschungel der Handlettering-Materialien"
+title: "Handlettering – Meine Materialempfehlungen für Handlettering-Anfänger"
 tags: [Handlettering]
 thumbnail: "assets/img/thumbnails/Handlettering-Material.jpg"
 excerpt_separator: <!--more-->
 ---
 
-Handlettering ist unheimlich abwechslungsreich mit einem vielfältigen
-Repertoire an möglichen Werkzeugen und Techniken. Die immense Auswahl
-birgt allerdings besonders für Anfänger die Gefahr, sich im Dschungel
-der unterschiedlichen Materialien zu verzetteln und zu viele (unnötige)
-Anschaffungen zu tätigen.
+Handlettering ist unheimlich abwechslungsreich mit einem vielfältigen Repertoire
+an möglichen Werkzeugen und Techniken. Die immense Auswahl birgt allerdings
+besonders für Anfänger die Gefahr, sich im Dschungel der unterschiedlichen
+Materialien zu verzetteln und zu viele (unnötige) Anschaffungen zu tätigen.
 <!--more-->
 
 ![Handlettering ist meine Leidenschaft]({{site.baseurl}}/assets/img/posts/Handlettering_Material/handlettering-material.png)
 
-## Meine Materialempfehlungen für Handlettering-Beginner
+[Werbung]
+Im Folgenden verweise ich auf bestimmte Materialien mit Links. Alle Empfehlungen
+beruhen auf meiner ganz persönlichen Erfahrung. Alle Materialien sind selbst
+gekauft. Hier ist nichts beauftragt, bezahlt oder in irgendeiner Weise
+gesponsert.
+
+## Grundsätzliche Empfehlung bei Stiften
 
 Ich persönlich rate dazu, lieber einzelne Stifte und Techniken auszuprobieren
 und sich nach und nach bewusst für jenes Werkzeug zu entscheiden, mit dem man
 ein gutes Gefühl hat. Es muss sich für einen selbst stimmig anfühlen. Nur weil
 jemand anderes für einen bestimmten Stift schwärmt, muss es für einen selbst
-nicht unbedingt das Mittel der Wahl sein. Letztlich macht sowieso kein Werkzeug
-der Welt – und mag es noch so hochwertig oder teuer sein – aus einem Anfänger
-einen Meister. Die wichtigsten Zutaten beim Handlettering sind Freude,
-Zeitinvest und Beharrlichkeit. Das eigentliche Werkzeug ist im Grunde
-zweitrangig. Hier gilt gerade für den Anfang: Weniger ist mehr.
+nicht unbedingt das Mittel der Wahl sein.
 
-Mit diesem Beitrag möchte ich meine persönlichen Erfahrungen zu
-verschiedenen Materialien schildern und vor allem Anfängern einen
-Überblick aufzeigen, welche Werkzeuge welche Möglichkeiten bieten.
-
-[Werbung]
-Im Folgenden verweise ich auf bestimmte Materialien mit Links.
-Allerdings beruhen alle Empfehlungen auf meiner ganz persönlichen
-Erfahrung. Alle Materialien sind selbst gekauft. Hier ist nichts
-beauftragt, bezahlt oder in irgendeiner Weise gesponsert. Die Links sind
-auch keine Affiliate-Links. Ich mache das hier alles freiwillig.
-
-## Grundsätzliche Empfehlungen
-
-Für Handlettering Einsteiger habe ich zwei grundsätzliche Empfehlungen:
+Außerdem habe ich für Handlettering-Einsteiger zwei ganz grundsätzliche
+Empfehlungen:
 
 ### 1. Unempfindliches Werkzeug
 
@@ -58,7 +47,7 @@ Steigere dich bei den Typen von Stiften allmählich
 -   von preiswert zu teuer
 -   von trocken zu nass
 
-## Übung macht den Meister
+## Übung ist alles
 
 Ich empfehle folgende Vorgehensweise, um nach und nach einen besseren
 Zugang zur Buchstabenmalerei zu erhalten.
