@@ -1,0 +1,40 @@
+# SITE CONFIGURATION
+remote_theme: sylhare/Type-on-Strap
+
+# THEME-SPECIFIC CONFIGURATION
+title: fraulyoner.de
+description: "Webseite und Blog von Frau Lyoner zu Kreativkram wie
+Handlettering, Sketchnotes, Flipcharts"
+avatar: #assets/img/avatar.jpg
+favicon: assets/favicon.ico
+
+# HEADER AND FOOTER TEXT
+header_text: "Hi, ich bin Frau Lyoner."
+header_feature_image: #/assets/img/lineart.png
+footer_text: >
+  Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>
+
+# BLOG
+excerpt: true # Or "truncate" (first 250 characters), "false" to disable
+post_navigation: true
+
+# PAGINATION
+paginate: 3
+paginate_path: "/blog/page:num"
+
+# FEATURES
+katex:                                             # Enable if using math markup
+google_analytics:                                  # Tracking ID, e.g. "UA-000000-01"
+disqus_shortname:                                  # Your discus shortname for comments
+layout_variables:                                  # Open the "_sass > base" folder, and open "_variables.scss"
+footer_icons:  true                                # In _data/social.yml
+share_buttons:                                     # In _data/social.yml
+authors:                                           # In _data/authors.yml
+language:                                          # In _data/language.yml
+
+# EXCLUDE from production _site
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - CNAME

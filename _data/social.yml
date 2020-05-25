@@ -1,0 +1,40 @@
+# Icons on the footer
+rss: true
+email_address: hallo@fraulyoner.de # Full email address, e.g. "sam@example.com"
+behance:
+bitbucket:
+dribbble:
+facebook:
+flickr:
+gitlab:
+github:
+instagram: "fraulyoner"
+keybase:
+linkedin: # Full URL
+pinterest: "fraulyoner"
+reddit:
+soundcloud:
+stack_overflow:
+stack_exchange: # Full URL
+steam:
+tumblr:
+twitter: "fraulyoner" # Twitter username
+vimeo:
+wordpress:
+youtube: # Youtube channel token like: UCqECaJ8Gagnn7YCbPEzWH6g
+
+# rss specify feed path
+feed:
+  path: feed.xml
+
+# Share button options
+share:
+  facebook:
+  twitter:
+  tumblr:
+  pinterest:
+  pocket:
+  reddit:
+  linkedin:
+  wordpress:
+  email:

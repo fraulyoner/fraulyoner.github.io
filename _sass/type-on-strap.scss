@@ -1,0 +1,113 @@
+// Variables
+@import 'base/variables';
+// External
+@import 'external/reset';
+@import 'external/syntax';
+@import 'external/font-awesome';
+@import 'external/pacifico';
+@import 'external/katex';
+@import 'external/source-sans-pro';
+// Base
+@import 'base/global';
+@import 'base/utility';
+// Posts
+@import 'layouts/posts';
+@import 'layouts/blog';
+@import 'layouts/page';
+@import 'layouts/tags';
+@import 'layouts/search';
+// Includes
+@import 'includes/footer';
+@import 'includes/post_nav';
+@import 'includes/navbar';
+@import 'includes/portfolio';
+@import 'includes/grid';
+@import 'includes/share_buttons';
+@import 'includes/blog_nav.scss';
+
+
+h1.title,
+.subtitle {
+  text-shadow: none;
+}
+
+.call-out {
+  p,
+  a,
+  li,
+  h1,
+  h2,
+  h3,
+  h4,
+  h5 {
+    text-shadow: none;
+  }
+}
+
+.tag-posts .tag-title a {
+    margin-left: 0;
+}
+
+.tag-posts .meta {
+    display: block;
+    float:none;
+}
+
+.site-header .avatar {
+  border-radius: 50%;
+}
+
+.footer-icons {
+  margin-bottom: 1em;
+}
+
+.home header > img {
+  border-radius: 50%;
+  width: 50%;
+}
+
+.home section img {
+  padding: 0;
+}
+
+.home article header {
+  margin-bottom: 0;
+}
+
+.posts .post-teaser .post-img,
+.button {
+  border-radius: 0;
+}
+
+// not for tags
+.post-content .button {
+  width: 100%;
+  text-align: center;
+}
+
+.tag-list a.button {
+  width: auto;
+}
+
+.posts .post-teaser .post-img
+{
+  height: 100%;
+}
+
+.column img {
+  padding: 0 6% 0 0;
+}
+
+blockquote {
+  margin-left: 0;
+  margin-right: 0;
+}
+
+.home.links {
+  .button {
+    margin: 0 0 1em 0;
+  }
+  h3 {
+    text-align: center;
+  }
+}

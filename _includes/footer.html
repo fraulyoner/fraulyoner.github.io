@@ -1,0 +1,18 @@
+<footer class="site-footer">
+  <div class="footer-icons">
+    <ul>
+      <!-- Social icons from Font Awesome, if enabled -->
+      {% include icons.html %}
+    </ul>
+  </div>
+
+  <p class="text">
+    &copy; {{ site.data.person.name }} 2020 &ndash;
+    <a href="mailto:{{ site.data.social.email_address }}">Kontakt</a>
+  	| <a href="{{ site.baseurl }}/impressum.html">Impressum</a>
+  	| <a href="{{ site.baseurl }}/datenschutz.html">Datenschutz</a>
+  	<br/>
+    Powered by <a href="https://jekyllrb.com/">Jekyll</a> with
+    <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>
+  </p>
+</footer>
