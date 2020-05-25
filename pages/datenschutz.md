@@ -4,6 +4,7 @@ title: Datenschutz
 sitemap: false
 robots: noindex,follow,noarchive
 hide: true
+permalink: /datenschutz/
 ---
 
 ### Datenschutzerklärung {#dsg-general-intro}

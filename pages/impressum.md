@@ -4,6 +4,7 @@ title: Impressum
 sitemap: false
 robots: noindex,follow,noarchive
 hide: true
+permalink: /impressum/
 ---
 
 ## Angaben gemäß § 5 TMG
