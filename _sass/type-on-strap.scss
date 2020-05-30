@@ -53,8 +53,17 @@ h1.title,
     float:none;
 }
 
-.site-header .avatar {
-  border-radius: 50%;
+.site-header img.avatar {
+  width: auto;
+  margin-top: 0;
+
+  @media screen and (min-width: $break) {
+    margin-top: -10px;
+  }
+}
+
+.site-header h1.site-title {
+  display: none;
 }
 
 .footer-icons {

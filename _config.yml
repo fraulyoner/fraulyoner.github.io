@@ -4,7 +4,7 @@ remote_theme: sylhare/Type-on-Strap
 # THEME-SPECIFIC CONFIGURATION
 title: fraulyoner.de
 description: "Inspiration und Tipps zu Handlettering, Sketchnotes und Flipchart-Gestaltung"
-avatar: #assets/img/avatar.jpg
+avatar: assets/img/fraulyoner-title.png
 favicon: assets/favicon.ico
 
 # HEADER AND FOOTER TEXT
