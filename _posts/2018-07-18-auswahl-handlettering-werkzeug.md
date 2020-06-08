@@ -169,7 +169,7 @@ kaufen.
 Selbsterprobte Beispiele:
 
 -   [Crayola
-    Supertips](https://www.amazon.de/Crayola-03-7509DM-Supertips-Filzstifte-auswaschbar/dp/B0002HYYDU/ref=sr_1_6?s=officeproduct&ie=UTF8&qid=1531948753&sr=1-6&keywords=crayola+supertips)
+    Supertips](https://www.amazon.de/Crayola-58-5057-E-000-CC020007-Buntstifte/dp/B01BF6F20K/ref=pd_sbs_21_1/258-7056255-6237631?_encoding=UTF8&pd_rd_i=B01BF6F20K&pd_rd_r=6b9a1bef-b128-40b8-8f07-d6719a80c655&pd_rd_w=IZ9fW&pd_rd_wg=1u3iL&pf_rd_p=42bf0ad8-ce6f-4127-a2f0-106727020a41&pf_rd_r=KJV7M6CJQT1SBAYHDYBA&psc=1&refRID=KJV7M6CJQT1SBAYHDYBA)
     (günstige, unempfindliche Filzstifte für Kinder, gerade für den
     Anfang optimal)
 -   [Lyra Aqua Brush Duo
