@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Handlettering – Übung ist einfach alles"
-tags: [Handlettering]
+tags: [Handlettering, Perfektionismus]
 thumbnail: "assets/img/thumbnails/Handlettering_Fortschritt.jpg"
 excerpt_separator: <!--more-->
 ---
