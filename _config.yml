@@ -1,5 +1,5 @@
 # SITE CONFIGURATION
-remote_theme: sylhare/Type-on-Strap
+remote_theme: sylhare/Type-on-Strap@v2.2.1
 
 # THEME-SPECIFIC CONFIGURATION
 title: fraulyoner.de
