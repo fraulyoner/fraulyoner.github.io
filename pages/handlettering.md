@@ -10,7 +10,7 @@ Im Januar 2016 verlor ich mein Herz an die Buchstabenmalerei (Handlettering) und
 bin seitdem auch auf Instagram aktiv. Hier findest du eine kleine Auswahl meiner
 Buchstabenkunst. Wenn du mehr sehen möchtest, folge mir doch auf Instagram.
 
-<a class="button" href="https://instagram.com/{{ site.data.social.instagram }}">
+<a class="button" href="https://instagram.com/{{ site.data.social.instagram }}" target="_blank">
   <i class="fa fa-instagram fa-fw"></i> Folge mir auf Instagram
 </a>
 
