@@ -13,21 +13,6 @@ layout: page
 {% endif %}
 {% endfor %}
 
-<!-- cycles through portfolio collection to get tags -->
-{% assign portfolio =  site.portfolio | map: 'tags' | join: ','  | split: ',' | uniq %}
-{% for tag in portfolio %}
-{% assign portfolio_tags = tag | join: '|' | append: '|' %}
-{% assign rawtags = rawtags | append: portfolio_tags %}
-{% endfor %}
-
-<!-- cycles through pages to get tags -->
-{% for page in site.pages %}
-{% if page.tags.size > 0 %}
-{% assign page_tags = page.tags | join:'|' | append:'|' %}
-{% assign rawtags = rawtags | append:page_tags %}
-{% endif %}
-{% endfor %}
-
 <!-- Displays the list of tags-->
 {% include tags_list.html tags=rawtags %}
 
@@ -39,21 +24,6 @@ layout: page
         <!-- Posts and collection for each tags -->
         <div class="tag-posts">
 
-            <!-- Pages -->
-            {% for page in site.pages %}
-                {% if page.tags contains tag %}
-                <h5 class="tag-title">
-                    <a href="{{ page.url | relative_url }}">
-                        {{ page.title }}
-                    </a>
-
-                    <div class="meta">
-                        {{ "today" | date: "%B %-d, %Y" }}
-                    </div>
-                </h5>
-                {% endif %}
-            {% endfor %}
-
             <!-- Posts -->
             {% for post in site.posts %}
                 {% if post.tags contains tag %}
@@ -64,21 +34,6 @@ layout: page
 
                     <div class="meta">
                         {{ post.date | date: "%B %-d, %Y" }}
-                    </div>
-                </h5>
-                {% endif %}
-            {% endfor %}
-
-            <!-- Portfolio -->
-            {% for note in site.portfolio %}
-                {% if note.tags contains tag %}
-                <h5 class="tag-title">
-                    <a href="{{ note.url | relative_url }}">
-                        {{ note.title }}
-                    </a>
-
-                    <div class="meta">
-                        {{ note.date | date: "%B %-d, %Y" }}
                     </div>
                 </h5>
                 {% endif %}

@@ -3,7 +3,6 @@ layout: page
 title: Flipcharts
 permalink: /flipcharts/
 gallery_path: "assets/img/flipcharts"
-tags: [Flipcharts]
 ---
 
 Ich war eineinhalb Jahre als Scrum Master / Prozessbegleiterin tätig. Während

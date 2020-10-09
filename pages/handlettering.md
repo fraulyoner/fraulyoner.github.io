@@ -3,7 +3,6 @@ layout: page
 title: Handlettering
 permalink: /handlettering/
 gallery_path: "assets/img/lettering"
-tags: [Handlettering]
 ---
 
 Im Januar 2016 verlor ich mein Herz an die Buchstabenmalerei (Handlettering) und
