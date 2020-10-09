@@ -5,11 +5,13 @@ permalink: /handlettering/
 gallery_path: "assets/img/lettering"
 ---
 
-Im Januar 2016 verlor ich mein Herz an die Buchstabenmalerei (Handlettering) und
-bin seitdem auch auf Instagram aktiv. Hier findest du eine kleine Auswahl meiner
-Buchstabenkunst. Wenn du mehr sehen möchtest, folge mir doch auf Instagram.
-Auf [artboxONE]({{ site.data.links.artboxone }}){:target="\_blank"} hast du
-übrigens die Möglichkeit, einige meiner Motive als Kunstdruck zu erwerben.
+Seit 2016 schlägt mein Herz für die Buchstabenmalerei. Hier findest du eine
+kleine Auswahl meiner Buchstabenkunst. Wenn du mehr sehen möchtest, folge mir
+doch auf Instagram.
+
+Du bist auf der Suche nach einer individuellen Grußkarte oder hast eine
+besondere Geschenkidee, die ich für dich verschriftbildlichen kann?
+[Schreib mich einfach an!](mailto:{{site.data.social.email_address }})
 
 <a class="button" href="https://instagram.com/{{ site.data.social.instagram }}" target="_blank">
   <i class="fa fa-instagram fa-fw"></i> Folge mir auf Instagram
