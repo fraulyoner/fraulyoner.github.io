@@ -1,0 +1,62 @@
+<header class="site-header">
+
+    <!-- Logo and title -->
+	<div class="branding">
+        {% if site.avatar %}
+		<a href="{{ '/' | relative_url }}">
+			<img alt="logo img" class="avatar" src="{{ site.avatar | relative_url }}" />
+		</a>
+        {% endif %}
+        <a class="site-title" aria-label="{{ site.title }}" href="{{ '/' | relative_url }}">
+		</a>
+	</div>
+
+    <!-- Toggle menu -->
+    <nav class="clear">
+    <a aria-label="pull" id="pull" class="toggle" href="#">
+    <i class="fa fa-bars fa-lg"></i>
+    </a>
+
+    <!-- Menu -->
+    <ul class="hide">
+        <li>
+					<a class="clear" aria-label="Shop" title="Shop" href="{{ '/shop/' | relative_url }}">
+						Shop
+					</a>
+				</li>
+				<li class="separator"> | </li>
+				<li>
+					<a class="clear" aria-label="Blog" title="Blog" href="{{ site.data.links.gedankenshift }}" target="_blank">
+						Blog
+					</a>
+        </li>
+				<li class="separator"> | </li>
+				<li>
+					<a class="clear" aria-label="Handlettering" title="Handlettering" href="{{ '/handlettering/' | relative_url }}">
+						Handlettering
+					</a>
+        </li>
+				<li class="separator"> | </li>
+				<li>
+					<a class="clear" aria-label="Tutorials" title="Tutorials" href="{{ '/blog/' | relative_url }}">
+						Tutorials
+					</a>
+				</li>
+				<li class="separator"> | </li>
+				<li>
+					<a class="clear" aria-label="Kontakt" title="Kontakt" href="{{ '/kontakt/' | relative_url }}">
+						Kontakt
+					</a>
+				</li>
+				<!-- DISABLE SEARCH FOR NOW
+				<li class="separator"> | </li>
+				<li>
+					<a class="clear" aria-label="Suche" title="Suche" href="/search/">
+						<i class="fa fa-search" aria-hidden="true"></i>
+					</a>
+				</li>
+				-->
+    </ul>
+
+	</nav>
+</header>
