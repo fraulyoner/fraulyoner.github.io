@@ -122,6 +122,10 @@ blockquote {
   margin-right: 0;
   box-shadow: none;
   border-left: 2px solid $text-color;
+
+  @media (max-width: $break) {
+    font-size: 0.8em;
+  }
 }
 
 .home.links {
