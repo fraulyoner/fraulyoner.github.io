@@ -31,6 +31,10 @@ h1.title,
   text-shadow: none;
 }
 
+h1.title {
+  padding: 0 0 0.5em 0;
+}
+
 .call-out {
   p,
   a,
@@ -71,15 +75,15 @@ h1.title,
 }
 
 .home header > img {
+  width: 65%;
+}
+
+.home header > img.avatar {
   border-radius: 50%;
   width: 50%;
 }
 
-.home section img {
-  padding: 0;
-}
-
-.home article header {
+article header {
   margin-bottom: 0;
 }
 
@@ -109,9 +113,15 @@ h1.title,
   margin-right: 0;
 }
 
+.row img {
+  padding: 1%;
+}
+
 blockquote {
   margin-left: 0;
   margin-right: 0;
+  box-shadow: none;
+  border-left: 2px solid $text-color;
 }
 
 .home.links {

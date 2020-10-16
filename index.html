@@ -9,7 +9,7 @@ hide: true
   <article>
 
     <header id="main">
-      <img src="{{ '/assets/img/avatar.jpg' | relative_url }}"/>
+      <img src="{{ '/assets/img/profil.png' | relative_url }}"/>
       <h1 id="{{ site.header_text | default: "" | cgi_escape }}" class="title">
       {{ site.header_text }}
       </h1>
@@ -17,18 +17,29 @@ hide: true
 
     <section class="post-content">
       <p>
-      Ich bin Buchstabenmalerin, Wortjongleurin, Gedankenspielerin, Nachteule,
-      Mama, Woman in Tech und noch so viel mehr. Mein richtiger Vorname ist
-      übrigens Aljona – gesprochen wie Lyoner, nur mit einem A vorne. Zusammen
-      mit Ehemann und kleiner Tochter lebe ich in der schönen
-      <a href="{{ site.data.links.location }}" target="_blank">Karlsruher Weststadt</a>.
-      <a class="button" href="mailto:{{ site.data.social.email_address }}">
-        <i class="fa fa-envelope-o fa-fw"></i> Schreib mir eine E-Mail
-      </a>
+        Mit Hand, Herz und Hirn zaubere ich einzigartige Buchstabenkunst. Du
+        bist auf der Suche nach einer individuellen Grußkarte oder hast eine
+        ganz besondere Idee, die ich für dich verschriftbildlichen kann? Dann
+        melde dich einfach bei mir.
       </p>
-      <p class="text-center">
-        <img src="{{ '/assets/img/fraulyoner.jpg' | relative_url }}"/>
+      <p>
+        <a class="button" href="mailto:{{ site.data.social.email_address }}">
+          <i class="fa fa-envelope-o fa-fw"></i> Schreib mir eine E-Mail
+        </a>
       </p>
+      <p>
+        {% include aligner.html images="/me/01_avatar.jpg,/me/02_motto.jpg,/me/03_familie.jpg" column=3 %}
+      </p>
+      <p>
+        Mein richtiger Vorname ist übrigens Aljona – gesprochen wie Lyoner, nur
+        mit einem A vorne. Zusammen mit Ehemann und kleiner Tochter lebe ich in
+        der wunderbaren
+        <a href="{{ site.data.links.location }}" target="_blank">Karlsruher Weststadt</a>.
+        Mein Motto ist:
+      </p>
+      <blockquote>
+        »Wege entstehen beim Gehen«.
+      </blockquote>
     </section>
 
     <section class="post-content">
@@ -39,31 +50,34 @@ hide: true
         <a href="{{ '/handlettering/' | relative_url }}">Buchstabenmalerei</a> (Handlettering)
         und bin seitdem auch auf
         <a href="https://instagram.com/{{ site.data.social.instagram }}" target="_blank">Instagram</a>
-        aktiv. Außerdem versuche ich mich auch immer wieder an Sketchnotes, denn
-        ich lebe mit Haut und Haar die Devise »Übung ist alles«.
+        aktiv. Außerdem versuche ich mich immer wieder an Sketchnotes, denn ich
+        lebe mit Haut und Haar die Devise <a href="{{ '2020/05/25/handlettering-uebung-ist-alles.html' | relative_url }}">»Übung ist alles«</a>.
+      </p>
+
+      <p>
         <a class="button" href="{{ '/handlettering/' | relative_url }}">
           <i class="fa fa-paint-brush fa-fw"></i> Beispiele meiner Buchstabenkunst
         </a>
       </p>
 
       <p>
-        <img style="width: 100%" alt="Handlettering und Sketchnotes"
-        src="{{ '/assets/img/handlettering_and_sketchnotes.jpg' | relative_url }}"/>
+        {% include aligner.html images="/individual/01_handlettering.jpg,/individual/02_handlettering.jpg,/individual/03_handlettering.jpg" column=3 %}
       </p>
 
       <p>
         Dir gefällt meine Buchstabenmalerei? Cool, das freut mich!
         Einige meiner Motive kannst du als Kunstdruck im artboxONE Shop
         erwerben.
+      </p>
 
+      <p>
         <a class="button" href="{{ site.data.links.artboxone-artist }}" target="_blank">
           <i class="fa fa-shopping-cart fa-fw"></i> Entdecke meine Motive bei artboxONE
         </a>
+      </p>
 
-        Oder bist du eher auf der Suche nach einer individuellen Grußkarte oder hast
-        eine besondere Geschenkidee, die ich für dich verschriftbildlichen kann?
-        Dann <a href="mailto:{{ site.data.social.email_address }}">schreib mir</a>
-        einfach!
+      <p>
+        {% include aligner.html images="/artboxone/01_simple.jpg,/artboxone/02_kaffee.jpg,/artboxone/03_danken.jpg" column=3 %}
       </p>
     </section>
 
@@ -76,9 +90,16 @@ hide: true
         Was einst mit dem Schwerpunkt Minimalismus begann, ist zu einem Ort
         gewachsen, an dem ich verschiedenste Denkanstöße für mehr Zufriedenheit,
         weniger Perfektionismus und Mut zu selbstbestimmten Entscheidungen gebe.
+      </p>
+
+      <p>
         <a class="button" target="_blank" href="{{ site.data.links.gedankenshift }}">
           <i class="fa fa-lg fa-fw fa-sign-in"></i> Mein Blog Gedankenshift
         </a>
+      </p>
+
+      <p>
+        {% include aligner.html images="/gedankenshift/01_entscheidungen.jpg,/gedankenshift/02_gedankenshift.jpg,/gedankenshift/03_goal.jpg" column=3 %}
       </p>
     </section>
 
@@ -91,6 +112,9 @@ hide: true
         tätig. Während dieser Zeit haben sich einige Flipcharts von
         Retrospektiven und Workshops angesammelt, die ich gerne als Inspiration
         zur Verfügung stelle.
+      </p>
+
+      <p>
         <a class="button" href="{{ '/flipcharts/' | relative_url }}">
           <i class="fa fa-image fa-fw"></i> Beispiele meiner Flipcharts
         </a>
