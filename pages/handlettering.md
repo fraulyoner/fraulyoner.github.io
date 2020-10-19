@@ -11,7 +11,8 @@ doch auf Instagram.
 
 Du bist auf der Suche nach einer individuellen Grußkarte oder hast eine
 besondere Geschenkidee, die ich für dich verschriftbildlichen kann?
-[Schreib mich einfach an!](mailto:{{site.data.social.email_address }})
+Schau doch mal in meinem [Etsy Shop]({{site.data.links.etsy }}) vorbei oder
+[schreib mir](mailto:{{site.data.social.email_address }}) einfach.
 
 <a class="button" href="https://instagram.com/{{ site.data.social.instagram }}" target="_blank">
   <i class="fa fa-instagram fa-fw"></i> Folge mir auf Instagram
