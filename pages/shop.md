@@ -7,7 +7,7 @@ permalink: /shop/
 Dir gefällt meine Buchstabenmalerei? Cool, das freut mich!
 Einige meiner Motive kannst du als Kunstdruck im artboxONE Shop erwerben.
 
-<a class="button" href="{{ site.data.links.artboxone-artist }}" target="_blank">
+<a class="button" href="{{ site.data.links.artboxone }}" target="_blank">
   <i class="fa fa-shopping-cart fa-fw"></i> Entdecke meine Motive bei artboxONE
 </a>
 
