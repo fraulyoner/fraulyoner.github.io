@@ -4,8 +4,7 @@ title: Kontakt
 permalink: /kontakt/
 ---
 
-Du bist auf der Suche nach einer individuellen Grußkarte oder hast eine
-besondere Geschenkidee, die ich für dich verschriftbildlichen kann? Du bist
+Du hast eine besondere Idee, die ich für dich verschriftbildlichen kann? Du bist
 interessiert an einer kreativen Zusammenarbeit oder möchtest einfach nur Fragen
 oder Anregungen loswerden? Schreib mich einfach an. Ich freue mich, von dir zu
 hören!
