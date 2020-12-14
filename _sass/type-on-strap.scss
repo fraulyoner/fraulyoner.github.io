@@ -58,11 +58,12 @@ h1.title {
 }
 
 .site-header img.avatar {
+  height: 2.5em;
   width: auto;
   margin-top: 0;
 
   @media screen and (min-width: $break) {
-    margin-top: -10px;
+    margin-top: -8px;
   }
 }
 
