@@ -6,8 +6,7 @@ permalink: /kontakt/
 
 Du hast eine besondere Idee, die ich für dich verschriftbildlichen kann? Du bist
 interessiert an einer kreativen Zusammenarbeit oder möchtest einfach nur Fragen
-oder Anregungen loswerden? Schreib mich einfach an. Ich freue mich, von dir zu
-hören!
+oder Anregungen loswerden? Schreib mich an. Ich freue mich, von dir zu hören!
 
 <a class="button" href="mailto:{{ site.data.social.email_address }}">
   <i class="fa fa-envelope-o fa-fw"></i> Schreib mir eine E-Mail
