@@ -5,10 +5,8 @@ permalink: /handlettering/
 gallery_path: "assets/img/lettering"
 ---
 
-Seit 2016 schlägt mein Herz für die Buchstabenmalerei. Hier findest du eine
-kleine Auswahl. Wenn dir meine Buchstabenkunst gefällt, folge mir doch auf
-[Instagram](https://instagram.com/{{ site.data.social.instagram }})
-oder stöbere in meinem [Etsy Shop]({{site.data.links.etsy }}).
+Seit 2016 schlägt mein Herz für die Buchstabenkunst. Du möchtest mehr in Sachen
+Handlettering von mir sehen?
 
 <a class="button" href="https://instagram.com/{{ site.data.social.instagram }}" target="_blank">
   <i class="fa fa-instagram fa-fw"></i> Folge mir auf Instagram
