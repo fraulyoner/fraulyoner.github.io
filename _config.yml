@@ -11,6 +11,7 @@ favicon: assets/favicon.ico
 header_text: "Hi, ich bin Frau Lyoner."
 header_feature_image: #/assets/img/lineart.png
 
+# ATTENTION: DISABLED!
 # BLOG
 excerpt: true # Or "truncate" (first 250 characters), "false" to disable
 post_navigation: true
