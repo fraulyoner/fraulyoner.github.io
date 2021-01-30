@@ -39,19 +39,10 @@ Und für den Anfang helfen vielleicht folgende Bücher:
 - [Mike Rohde, Das Sketchnote Handbuch](https://www.hugendubel.de/de/buch_kartoniert/mike_rohde-das_sketchnote_handbuch-21469734-produkt-details.html){:target="\_blank"}
 - [bikablo® Visuelles Wörterbuch](https://de.neuland.com/literatur/fachbuecher/bikablo-2.0.html){:target="\_blank"}
 
-## Weitere Fragen zu Sketchnotes?
+## Sketchnotes zum Schmunzeln gefällig?
 
-Hast du weitere Fragen zum Thema Sketchnotes? Kann ich dir irgendwie
-weiterhelfen?
-
-<a class="button" href="mailto:{{ site.data.social.email_address }}">
-  <i class="fa fa-envelope-o fa-fw"></i> Schreib mir eine E-Mail
-</a>
-
-## Sketchnotes zum Schmunzeln
-
-Du möchtest ein paar meiner Sketchnotes sehen? Im Zuge des ersten Shutdowns in
-2020 habe ich bei einer Instagram Challenge mitgemacht, um die
+Du möchtest ein paar meiner Sketchnotes sehen? Im Zuge des ersten Shutdowns
+letztes Jahr habe ich bei einer Instagram Challenge mitgemacht, um die
 Corona-Homeoffice-Situation in 26 humorvollen Bildern festzuhalten. Schau doch
 einfach mal rein.
 
