@@ -56,9 +56,9 @@ unterschiedlichen Formen und Kompositionen. Heutzutage halten viele Menschen nur
 noch selten einen Stift in der Hand. Umso wichtiger ist es, sich zunächst einmal
 (wieder) darauf einzulassen.
 
-![Handlettering mit einfachstem Schreibwerkzeug]({{site.baseurl}}/assets/img/werkzeug/handlettering-material-1.jpg){:style="padding:0"}
+![Handlettering mit einfachstem Schreibwerkzeug]({{site.baseurl}}/assets/img/werkzeug/kuli_lettering.jpg){:style="padding:0"}
 
-Selbsterprobte Beispiele:
+#### Selbsterprobte Beispiele:
 
 -   Bleistift
 -   Buntstift
@@ -72,9 +72,9 @@ Dieses Prinzip kannst du am besten mit der sogenannten *Faux Kalligraphie*
 verinnerlichen. Dabei werden abwärts gerichtete Linien nachgefahren oder
 anderweitig stärker betont.
 
-![Faux Kalligraphie als Einstieg ins Handlettering]({{site.baseurl}}/assets/img/werkzeug/handlettering-material-2.jpg){:style="padding:0"}
+![Faux Kalligraphie als Einstieg ins Handlettering]({{site.baseurl}}/assets/img/werkzeug/faux_kalligraphie.jpg){:style="padding:0"}
 
-Selbsterprobte Beispiele:
+#### Selbsterprobte Beispiele:
 
 -   [Sakura Pigma Micron Fineliner](https://www.gerstaecker.de/Sales/Herbstaktion-2017/Zeichnen-Grafik-Design---/SAKURA-PIGMA-MICRON-Fineliner.html)
 -   [Staedtler Pigment Liner](https://www.gerstaecker.de/STAEDTLER-Pigment-Liner-308.html)
@@ -87,9 +87,9 @@ tolle Ergebnisse erzielt werden. Durch den umgedrehten Kontrast (hell auf
 dunkel) wirkt das Erscheinungsbild gleich viel interessanter als beim üblichen
 Kontrast (dunkel auf hell).
 
-![Handlettering auf Kraftpapier]({{site.baseurl}}/assets/img/werkzeug/handlettering-material-3.jpg){:style="padding:0"}
+{% include aligner.html images="/werkzeug/handlettering_kraftpapier.jpg,/werkzeug/handlettering_kraftpapier2.jpg" %}
 
-Selbsterprobte Beispiele:
+#### Selbsterprobte Beispiele:
 
 -   [Uni-Ball Signo Broad Gelschreiber in weiß](https://www.gerstaecker.de/Kreatives-Gestalten/Geschenke-verpacken/Geschenke-beschriften/UNI-BALL-Signo-broad-Gelschreiber.html)
 -   [Docrafts Metallic Pens](https://www.amazon.de/Docrafts-Metallic-Pens-Shimmery-Colours/dp/B003WKO790/ref=sr_1_fkmr1_1?ie=UTF8&qid=1531947825&sr=8-1-fkmr1&keywords=papermania+metallic+pens)
@@ -111,9 +111,9 @@ eher eine ungeübte Haltung, exzessives Üben und raues Papier. Dennoch freuen
 auch sie sich über glattes Papier. Darauf macht das Üben sowieso viel mehr Spaß,
 da die Stifte schön gleiten und sich mit einer längeren Lebensdauer bedanken.
 
-![Handlettering mit unempfindlichen Pinselstiften]({{site.baseurl}}/assets/img/werkzeug/handlettering-material-4.jpg){:style="padding:0"}
+![Handlettering mit unempfindlichen Pinselstiften]({{site.baseurl}}/assets/img/werkzeug/brushpens_hart.jpg){:style="padding:0"}
 
-Selbsterprobte Beispiele:
+#### Selbsterprobte Beispiele:
 
 -   [Tombow Fudenosuke Brush Pen Hard](https://www.amazon.de/Tombow-Fudenosuke-weiche-schreibfarbe-schwarz/dp/B019Z6T2PI/ref=sr_1_1?s=kitchen&ie=UTF8&qid=1531948320&sr=1-1&keywords=fudenosuke&th=1)
     (nur in schwarz)
@@ -141,26 +141,30 @@ noch ungeübte Stiftehaltung die kleinen Sensibelchen relativ schnell
 Macken bekommen. Daher ist es ratsam, für die erste Übungszeit zunächst eher die
 günstigeren Varianten zu nutzen.
 
-![Handlettering mit empfindlichen Pinselstiften]({{site.baseurl}}/assets/img/werkzeug/handlettering-material-5.jpg){:style="padding:0"}
+![Handlettering mit empfindlichen Pinselstiften]({{site.baseurl}}/assets/img/werkzeug/brushpens_weich.jpg){:style="padding:0"}
 
-Selbsterprobte Beispiele:
+#### Selbsterprobte Beispiele:
 
 -   [Crayola Supertips](https://www.amazon.de/Crayola-58-5057-E-000-CC020007-Buntstifte/dp/B01BF6F20K/ref=pd_sbs_21_1/258-7056255-6237631?_encoding=UTF8&pd_rd_i=B01BF6F20K&pd_rd_r=6b9a1bef-b128-40b8-8f07-d6719a80c655&pd_rd_w=IZ9fW&pd_rd_wg=1u3iL&pf_rd_p=42bf0ad8-ce6f-4127-a2f0-106727020a41&pf_rd_r=KJV7M6CJQT1SBAYHDYBA&psc=1&refRID=KJV7M6CJQT1SBAYHDYBA)
-    (günstige, unempfindliche Filzstifte Anfang optimal)
+    (günstig und robust)
 -   [STABILO Pen 68 brush](https://www.stabilo.com/de/produkte/malenundzeichnen/filzstifte/stabilo-pen-68-brush/)
-    (mag ich sehr gerne, relativ günstig)
+    (relativ günstig)
 -   [Lyra Aqua Brush Duo Pinselstifte](https://www.gerstaecker.de/LYRA-AQUA-BRUSH-DUO-Pinselmaler-Etui-Pinselstift.html)
     (Tombows in günstig)
 -   [Tombow Dual Brush Pens](https://www.gerstaecker.de/TOMBOW-ABT-Dual-Brush-Pen.html)
     (sehr empfindlich, relativ teuer)
 -   [Talens Ecoline Brush Pens](https://www.gerstaecker.de/Talens-ECOLINE-Brush-Pen-Marker.html)
-    (Farbe fließt sehr intensiv)
+    (intensiver Farbfluss)
+-   [Karin Brushmarker PRO](https://eshop.karin.com.pl/de/karin/40-145-brushmarkerpro-60-kolorow.html)
+    (sehr intensiver Farbfluss)
+-   [Neuland Art Marker](https://de.neuland.com/marker-stifte/neuland-marker/neuland-no.one-art-pinselspitze-0-5-7-mm-5er-farbsets.html)
+    (eigentlich für Flipcharts)
 -   [Clairefontaine 1821 Kopierpapier](https://www.amazon.de/Clairefontaine-1821-Kopierpapier-wei%C3%9F-Blatt/dp/B000VRTLDY/ref=sr_1_1?s=kitchen&ie=UTF8&qid=1531948437&sr=1-1&keywords=clairefontaine+1821)
     (sehr glatt und relativ günstig)
 -   [Oxford Collegeblock blanko](https://www.amazon.de/OXFORD-100050359-Collegeblock-Schule-gelocht/dp/B00EO0ZGP6/ref=sr_1_1?s=kitchen&ie=UTF8&qid=1531948493&sr=8-1&keywords=oxford+collegeblock+blanko)
     (sehr glatt und relativ günstig)
 -   [Mondi ColorCopy Kopierpapier A5](https://www.amazon.de/gp/product/B00HUZQ10Q)
-    (sehr glatt, etwas dicker)
+    (sehr glatt und etwas dicker)
 
 ### Stufe 6: Jetzt wird's nass
 
@@ -172,9 +176,9 @@ Papier nicht unbedingt preiswert. Benötigt wird saugfähiges
 Aquarell-/Wasserfarbenpapier, das sich bei Nässe nicht wellt oder gar zerfetzt
 wird und das kann teilweise ordentlich kosten.
 
-![Handlettering mit Wasserfarben]({{site.baseurl}}/assets/img/werkzeug/handlettering-material-6.jpg){:style="padding:0"}
+{% include aligner.html images="/werkzeug/handlettering_watercolor.jpg,/werkzeug/handlettering_watercolor2.jpg" %}
 
-Selbsterprobte Beispiele:
+#### Selbsterprobte Beispiele:
 
 -   [Talens Ecoline Liquid Watercolor](https://www.gerstaecker.de/TALENS-Ecoline-Schulmalfarbe.html?listtype=search&searchparam=oxartnum:30030A&redirected=1)
 -   [Gerstaecker No. 3 Aquarellblock](https://www.gerstaecker.de/GERSTAECKER-N-3-Aquarellblock.html)
@@ -194,11 +198,10 @@ ist [regelmäßige Übung]({{ '/handlettering-fortschritt/' | relative_url }}).
 ## Gefällt dir meine Buchstabenkunst?
 
 Wenn dir meine Buchstabenkunst gefällt, schau doch mal in meinem [Etsy Shop]({{ site.data.links.etsy }}){:target="\_blank"}
-vorbei oder [folge mir auf Instagram](https://instagram.com/{{ site.data.social.instagram }}){:target="\_blank"},
-um mehr zu sehen.
+vorbei oder [folge mir auf Instagram](https://instagram.com/{{ site.data.social.instagram }}){:target="\_blank"}.
 
 <a class="button" href="{{ site.data.links.etsy }}" target="_blank">
-  <i class="fa fa-shopping-cart fa-fw"></i> Durchstöbere meinen Etsy Shop
+  <i class="fa fa-shopping-cart fa-fw"></i> Besuche meinen Etsy Shop
 </a>
 
-{% include aligner.html images="/etsy/aufgeraeumt.jpg,/etsy/zeitstattzeug.jpg" column=2 %}
+{% include aligner.html images="/etsy/aufgeraeumt.jpg,/etsy/zeitstattzeug.jpg" %}

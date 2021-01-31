@@ -7,11 +7,11 @@ gallery_path: "assets/img/lettering"
 
 Seit 2016 schlägt mein Herz für die Buchstabenkunst, auch bekannt als
 Handlettering. Beim Handlettering geht es nicht unbedingt um bestmögliche Leserlichkeit
-oder Gleichförmigkeit der Buchstaben, sondern vielmehr um die ästhetische
+oder Gleichförmigkeit der Buchstaben, sondern vielmehr um eine ästhetische
 Komposition von Worten oder einzelnen Buchstaben durch verschiedene Formen der
 Anordnung und Darstellung.
 
-{% include aligner.html images="/individual/04_handlettering.jpg,/individual/05_handlettering.jpg" %}
+{% include aligner.html images="/handlettering/mut_unperfekt.jpg,/handlettering/win_or_learn.jpg" %}
 
 ## Wie funktioniert Handlettering?
 
