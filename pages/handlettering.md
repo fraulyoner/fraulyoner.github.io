@@ -60,4 +60,4 @@ vorbei oder [folge mir auf Instagram](https://instagram.com/{{ site.data.social.
   <i class="fa fa-shopping-cart fa-fw"></i> Besuche meinen Etsy Shop
 </a>
 
-{% include aligner.html images="/etsy/aufgeraeumt.jpg,/etsy/zeitstattzeug.jpg" %}
+{% include aligner.html images="/etsy/aufgeraeumt.jpg,/etsy/zeitstattzeug.jpg" link="https://www.etsy.com/de/shop/fraulyonerDE" %}
