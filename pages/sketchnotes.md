@@ -36,6 +36,7 @@ Laufe der Zeit.
 Und für den Anfang helfen vielleicht folgende Bücher:
 
 - [Nadine Roßa, Sketchnotes – Die große Symbolbibliothek](https://www.topp-kreativ.de/sketchnotes.-die-grosse-symbol-bibliothek-8389?awc=16927_1612031527_7588b7c30250444343290e783a15b5b3){:target="\_blank"}
+- [Lisa Maria Moritz, Sketchnotes in der IT](https://dpunkt.de/produkt/sketchnotes-in-der-it/){:target="\_blank"}
 - [Mike Rohde, Das Sketchnote Handbuch](https://www.hugendubel.de/de/buch_kartoniert/mike_rohde-das_sketchnote_handbuch-21469734-produkt-details.html){:target="\_blank"}
 - [bikablo® Visuelles Wörterbuch](https://de.neuland.com/literatur/fachbuecher/bikablo-2.0.html){:target="\_blank"}
 
