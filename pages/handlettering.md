@@ -54,7 +54,7 @@ und schreiben zu können, ist aber natürlich von Vorteil. Der Rest kommt durch'
 ## Gefällt dir meine Buchstabenkunst?
 
 Wenn dir meine Buchstabenkunst gefällt, schau doch mal in meinem [Etsy Shop]({{ site.data.links.etsy }}){:target="\_blank"}
-vorbei oder [folge mir auf Instagram](https://instagram.com/{{ site.data.social.instagram }}){:target="\_blank"}.
+vorbei.
 
 <a class="button" href="{{ site.data.links.etsy }}" target="_blank">
   <i class="fa fa-shopping-cart fa-fw"></i> Besuche meinen Etsy Shop
