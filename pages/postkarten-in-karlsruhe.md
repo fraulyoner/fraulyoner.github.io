@@ -14,7 +14,5 @@ Umgebung kommst, sind vielleicht folgende Optionen für dich interessant:
 Körnerstraße 26, 76135 Karlsruhe
 * [Westpaper Weststadt](https://westpaper-karlsruhe.de/){:target="\_blank"},
 Gabelsbergerstraße 1, 76135 Karlsruhe
-* [TheLocalOne](https://thelocal1.de/){:target="\_blank"}, Lieferung per Fahrrad
-in Karlsruhe und Umgebung
 
 {% include aligner.html images="/lokal/postkarten_tantem.jpg,/lokal/weihnachtskarten_tantem.jpg" %}

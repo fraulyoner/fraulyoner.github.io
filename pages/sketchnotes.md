@@ -43,7 +43,7 @@ Und für den Anfang helfen vielleicht folgende Bücher:
 ## Sketchnotes zum Schmunzeln gefällig?
 
 Du möchtest ein paar meiner Sketchnotes sehen? Im Zuge des ersten Shutdowns
-letztes Jahr habe ich bei einer Instagram Challenge mitgemacht, um die
+in 2020 habe ich bei einer Instagram Challenge mitgemacht, um die
 Corona-Homeoffice-Situation in 26 humorvollen Bildern festzuhalten. Schau doch
 einfach mal rein.
 
