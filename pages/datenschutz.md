@@ -207,11 +207,6 @@ Impressum: <a href="https://www.fraulyoner.de/impressum.html" target="_blank">ht
 	</li>
 </ul><p><strong>Weitere Hinweise zu Verarbeitungsprozessen, Verfahren und Diensten:</strong></p>
 <ul class="m-elements">
-	<li><strong>Etsy: </strong>Online-Marktplatz für E-Commerce; <strong>Dienstanbieter:</strong> Etsy, Inc., 55
-		Washington Street, Suite 712, Brooklyn, NY 11201, USA; <strong>Rechtsgrundlagen:</strong> Berechtigte Interessen
-		(Art. 6 Abs. 1 S. 1 lit. f. DSGVO); <strong>Website:</strong> <a href="https://www.etsy.com/de" target="_blank">https://www.etsy.com/de</a>;
-		<strong>Datenschutzerklärung:</strong> <a href="https://www.etsy.com/de/legal/privacy/?ref=ftr" target="_blank">https://www.etsy.com/de/legal/privacy/?ref=ftr</a>.
-	</li>
 </ul><h2 id="m225">Bereitstellung des Onlineangebotes und Webhosting</h2><p>Um unser Onlineangebot sicher und effizient
 	bereitstellen zu können, nehmen wir die Leistungen von einem oder mehreren Webhosting-Anbietern in Anspruch, von
 	deren Servern (bzw. von ihnen verwalteten Servern) das Onlineangebot abgerufen werden kann. Zu diesen Zwecken können

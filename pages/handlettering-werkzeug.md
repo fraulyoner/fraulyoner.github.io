@@ -194,14 +194,3 @@ oder falsch, sondern nur individuelle Erfahrungswerte.
 Und das wichtigste Werkzeug überhaupt ist und bleibt deine Hand. Auch das
 teuerste Werkzeug lässt dich nicht über Nacht zum Profi mutieren. Entscheidend
 ist [regelmäßige Übung]({{ '/handlettering-fortschritt/' | relative_url }}).
-
-## Gefällt dir meine Buchstabenkunst?
-
-Wenn dir meine Buchstabenkunst gefällt, schau doch mal in meinem [Etsy Shop]({{ site.data.links.etsy }}){:target="\_blank"}
-vorbei.
-
-<a class="button" href="{{ site.data.links.etsy }}" target="_blank">
-  <i class="fa fa-shopping-cart fa-fw"></i> Besuche meinen Etsy Shop
-</a>
-
-{% include aligner.html images="/etsy/aufgeraeumt.jpg,/etsy/zeitstattzeug.jpg" %}

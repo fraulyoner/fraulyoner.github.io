@@ -5,10 +5,9 @@ permalink: /postkarten-in-karlsruhe/
 gallery_path: "assets/img/lokal"
 ---
 
-Postkarten mit meiner Buchstabenkunst bekommst du nicht nur in meinem
-[Etsy Shop]({{ site.data.links.etsy }}){:target="\_blank"},
-sondern auch in einigen lokalen Geschäften. Wenn du also aus Karlsruhe und
-Umgebung kommst, sind vielleicht folgende Optionen für dich interessant:
+Meinen Etsy Shop gibt es seit Anfang 2023 leider nicht mehr, doch wenn du aus
+Karlsruhe und Umgebung kommst, findest du Postkarten mit meiner Buchstabenkunst
+in einigen lokalen Geschäften:
 
 * [Tante M Weststadt](https://tante-m-karlsruhe.de/){:target="\_blank"},
 Körnerstraße 26, 76135 Karlsruhe

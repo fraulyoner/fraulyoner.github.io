@@ -50,14 +50,3 @@ Schulnoten du früher im Fach Kunst hattest. Du brauchst weder eine schöne
 Handschrift noch ein ausgefeiltes künstlerisches Talent. Die Fähigkeit, lesen
 und schreiben zu können, ist aber natürlich von Vorteil. Der Rest kommt durch's
 Üben.
-
-## Gefällt dir meine Buchstabenkunst?
-
-Wenn dir meine Buchstabenkunst gefällt, schau doch mal in meinem [Etsy Shop]({{ site.data.links.etsy }}){:target="\_blank"}
-vorbei.
-
-<a class="button" href="{{ site.data.links.etsy }}" target="_blank">
-  <i class="fa fa-shopping-cart fa-fw"></i> Besuche meinen Etsy Shop
-</a>
-
-{% include aligner.html images="/etsy/aufgeraeumt.jpg,/etsy/zeitstattzeug.jpg" link="https://www.etsy.com/de/shop/fraulyonerDE" %}
