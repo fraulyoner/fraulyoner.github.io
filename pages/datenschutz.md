@@ -35,7 +35,7 @@ permalink: /datenschutz/
 	<li><a class="index-link" href="#m42">Begriffsdefinitionen</a></li>
 </ul><h2 id="m3">Verantwortlicher</h2><p>Aljona Buchloh<br>Uhlandstr. 39<br>76135 Karlsruhe<br><br>
 E-Mail-Adresse: <a href="mailto:hallo@fraulyoner.de">hallo@fraulyoner.de</a><br><br>
-Impressum: <a href="https://www.fraulyoner.de/impressum.html" target="_blank">https://www.fraulyoner.de/impressum.html</a>
+Impressum: <a href="https://www.fraulyoner.de/impressum/" target="_blank">https://www.fraulyoner.de/impressum/</a>
 </p>
 <h2 id="mOverview">Übersicht der Verarbeitungen</h2><p>Die nachfolgende Übersicht fasst die Arten der verarbeiteten
 	Daten und die Zwecke ihrer Verarbeitung zusammen und verweist auf die betroffenen Personen.</p><h3>Arten der

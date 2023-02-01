@@ -47,7 +47,7 @@ in 2020 habe ich bei einer Instagram Challenge mitgemacht, um die
 Corona-Homeoffice-Situation in 26 humorvollen Bildern festzuhalten. Schau doch
 einfach mal rein.
 
-<a class="button" href="https://www.gedankenshift.de/perspektive/2020/12/23/rueckblick-corona-jahr-2020-im-home-office.html" target="_blank">
+<a class="button" href="https://www.gedankenshift.de/2020/12/23/rueckblick-corona-jahr-2020-im-home-office.html" target="_blank">
   <i class="fa fa-pencil-square-o fa-fw"></i> Sketchnotes Homeoffice ABC
 </a>
 
